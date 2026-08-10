@@ -29,14 +29,14 @@ distinguirlos de un vistazo y poder probar el multi-atlas. Entre los dos hay
 ## URLs directas (para los VRCUrl)
 
 ```
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/users_A_pc.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/users_B_pc.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/users_A_quest.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/users_B_quest.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/ads_A_pc.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/ads_B_pc.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/ads_A_quest.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/ads_B_quest.png
+https://raw.githubusercontent.com/Dioscarmesi/Golden/main/users_A_pc.png
+https://raw.githubusercontent.com/Dioscarmesi/Golden/main/users_B_pc.png
+https://raw.githubusercontent.com/Dioscarmesi/Golden/main/users_A_quest.png
+https://raw.githubusercontent.com/Dioscarmesi/Golden/main/users_B_quest.png
+https://raw.githubusercontent.com/Dioscarmesi/Golden/main/ads_A_pc.png
+https://raw.githubusercontent.com/Dioscarmesi/Golden/main/ads_B_pc.png
+https://raw.githubusercontent.com/Dioscarmesi/Golden/main/ads_A_quest.png
+https://raw.githubusercontent.com/Dioscarmesi/Golden/main/ads_B_quest.png
 ```
 
 ## Configuración en el VipCardManager
