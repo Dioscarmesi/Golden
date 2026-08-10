@@ -4,75 +4,55 @@ Imágenes numeradas para verificar que cada cartel recorta la celda correcta.
 Cada celda lleva su **índice 0-based** (el que recibe `ApplyAtlas`), la letra del
 atlas (A/B), la plataforma y su columna/fila.
 
-## ⚠️ Límite de VRChat: 2048 × 2048
+## Formato
 
-`VRCImageDownloader` **rechaza con error** cualquier imagen mayor a 2048×2048, en
-PC y en Quest por igual. Los buffers de entrada y salida topan además en 32 MB, y
-solo se puede bajar una imagen cada 5 segundos.
-Fuente: [Image Loading — VRChat Creation](https://creators.vrchat.com/worlds/udon/image-loading/).
+Todo entra en **2048 × 2048**, que es el máximo que acepta `VRCImageDownloader`
+([docs](https://creators.vrchat.com/worlds/udon/image-loading/)). Celdas verticales 1:2,
+como el quad del póster (0,61 × 1,09).
 
-Con grilla 16 × 8 eso ata el tamaño de celda:
-
-| Celda | Atlas que exige | ¿Carga en VRChat? |
-|---|---|---|
-| **128 × 256** | **2048 × 2048** | **Sí** |
-| 256 × 512 | 4096 × 4096 | No — error |
-| 512 × 1024 | 8192 × 8192 | No — error |
-
-## Los dos juegos
-
-### `vrchat-2048/` — el que funciona
-
-| Tipo | Grilla | Celdas | PC | Quest |
+| Tipo | Grilla | Por imagen | PC | Quest |
 |---|---|---|---|---|
-| Usuarios | 16 × 8 | 128 | 2048×2048 (celda 128 × 256) | 1024×1024 (celda 64 × 128) |
-| Anuncios | 4 × 2 | 8 | 2048×1024 (celda 512 × 512) | 1024×512 (celda 256 × 256) |
+| **Usuarios** | 8 × 4 | **32** (0–31) | 2048×2048 — celda **256 × 512** | 1024×1024 — celda 128 × 256 |
+| **Anuncios** | 4 × 2 | **8** (0–7) | 2048×2048 — celda **512 × 1024** | 1024×1024 — celda 256 × 512 |
 
-### `as-requested/` — con las medidas pedidas
-
-| Tipo | Grilla | Celdas | PC | Quest |
-|---|---|---|---|---|
-| Usuarios | 16 × 8 | 128 | 8192×8192 (celda 512 × 1024) | 4096×4096 (celda 256 × 512) |
-| Anuncios | 4 × 2 | 8 | 2048×1024 (celda 512 × 512) | 1024×512 (celda 256 × 256) |
-
-Los de usuarios de esta carpeta **no los va a cargar VRChat**. Sirven si el atlas
-se importa a mano al proyecto como textura, o para reescalarlos a 2048 antes de subirlos.
-
-La celda de usuario es vertical (1:2) en ambos juegos, para acompañar el quad del
-póster, que va en 0,61 × 1,09.
+Coincide con los defaults de la Tool: `card_cols 8 / card_rows 4`, `ads_cols 4 / ads_rows 2`.
 
 ## Archivos
 
-En cada carpeta: `users_A_pc.png`, `users_A_quest.png`, `users_B_pc.png`,
-`users_B_quest.png`, `ads_A_pc.png`, `ads_A_quest.png`, `ads_B_pc.png`, `ads_B_quest.png`.
+`users_A_pc.png` · `users_A_quest.png` · `users_B_pc.png` · `users_B_quest.png`
+`ads_A_pc.png` · `ads_A_quest.png` · `ads_B_pc.png` · `ads_B_quest.png`
 
 Los atlas **A** y **B** tienen la rueda de color girada 180° entre sí, para
-distinguirlos de un vistazo y poder probar el multi-atlas.
+distinguirlos de un vistazo y poder probar el multi-atlas. Entre los dos hay
+64 usuarios y 16 anuncios.
 
 ## URLs directas (para los VRCUrl)
 
 ```
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/vrchat-2048/users_A_pc.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/vrchat-2048/users_B_pc.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/vrchat-2048/users_A_quest.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/vrchat-2048/users_B_quest.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/vrchat-2048/ads_A_pc.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/vrchat-2048/ads_B_pc.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/vrchat-2048/ads_A_quest.png
-https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/vrchat-2048/ads_B_quest.png
+https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/users_A_pc.png
+https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/users_B_pc.png
+https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/users_A_quest.png
+https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/users_B_quest.png
+https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/ads_A_pc.png
+https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/ads_B_pc.png
+https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/ads_A_quest.png
+https://raw.githubusercontent.com/Dioscarmesi/worldtool-test-atlases/main/ads_B_quest.png
 ```
 
 ## Configuración en el VipCardManager
 
 ```
-columns    = 16     rows    = 8      (atlas de usuarios)
-adsColumns = 4      adsRows = 2      (atlas de anuncios)
+columns    = 8      rows    = 4       (atlas de usuarios)
+adsColumns = 4      adsRows = 2       (atlas de anuncios)
 
 atlasUrls      = [ users_A_pc,    users_B_pc    ]
 atlasUrlsQuest = [ users_A_quest, users_B_quest ]
 adsUrls        = [ ads_A_pc,      ads_B_pc      ]
 adsUrlsQuest   = [ ads_A_quest,   ads_B_quest   ]
 ```
+
+Ojo: se baja **una imagen cada 5 segundos**, así que con cuatro atlas la carga
+completa tarda unos 20 s desde que entrás al mundo.
 
 ## Ojo con la numeración
 
@@ -81,8 +61,8 @@ En la Tool, en cambio, la celda del usuario es **1-based** y `RebuildPool()` le
 resta 1. Es decir: un usuario con **card cell 1** aparece en la celda rotulada **0**.
 
 Con dos atlas encadenados las celdas cuentan de corrido: A cubre los índices
-globales 0–127 y B los 128–255. Si un cartel muestra un número del atlas
-equivocado, el problema está en el reparto del pool, no en el recorte.
+globales 0–31 y B los 32–63. Si un cartel muestra un número del atlas equivocado,
+el problema está en el reparto del pool, no en el recorte.
 
 ## Cómo leerlas
 
