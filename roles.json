@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": "Dios Carmesi",          "rank": "Owner",  "banner": 1004 },
+    { "id": "NOMBRE_STAFF",          "rank": "Staff",  "banner": 1005 },
+    { "id": "NOMBRE_VIP",            "rank": "VIP",    "banner": 1006 },
+    { "id": "NOMBRE_DANCER",         "rank": "Dancer", "banner": 1001 },
+    { "id": "NOMBRE_DANCER_LEGACY",  "rank": "Dancer", "banner": 1002 },
+    { "id": "NOMBRE_DJ",             "rank": "DJ",     "banner": 1003 }
+  ],
+  "ads": []
+}
