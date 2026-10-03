@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "generos": [
+    "Disney",
+    "Kpop",
+    "Pop",
+    "Decadas",
+    "Rock",
+    "Rap",
+    "Balada",
+    "Dance",
+    "Anime",
+    "Reggaeton",
+    "Bachata",
+    "Regional"
+  ],
+  "canciones": [
+    {
+      "id": "k_001",
+      "title": "Poison",
+      "artist": "Hazbin Hotel",
+      "duration": "02:19",
+      "genre": "Pop",
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=d0RAGfx8BtM&list=RDd0RAGfx8BtM&start_radio=1",
+      "agregado_por": "yutamir",
+      "fecha": "2026-09-30",
+      "editado_por": "yutamir",
+      "editado": "2026-09-30"
+    }
+  ]
+}
