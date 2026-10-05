@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "generos": [
+    "Pop",
+    "Kpop",
+    "Dance",
+    "Reggaeton",
+    "Electrónica",
+    "Hip hop",
+    "Latina",
+    "Anime"
+  ],
+  "canciones": []
+}
