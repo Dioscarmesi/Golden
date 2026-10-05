@@ -1,54 +1,64 @@
 {
-  "titulo": "Novedades de Golden",
+  "titulo": "Bienvenido a Golden",
   "version": "V1",
   "actualizado": "2026-10-05",
   "categorias": [
     {
-      "nombre": "Nuevo",
+      "nombre": "Estreno",
       "color": "#E8C46A",
       "entradas": [
-        { "fecha": "2026-10-05", "texto": "Menú del mundo con el estilo del Salón de Gala: ábrelo manteniendo el joystick derecho (VR) o la flecha arriba (PC). Opciones, voz, idioma, reglamento y créditos en 6 idiomas." },
-        { "fecha": "2026-10-05", "texto": "Cartel junto al spawn que explica cómo abrir el menú, en español e inglés." },
-        { "fecha": "2026-10-05", "texto": "Cartel de novedades: aquí verás los cambios del mundo sin esperar a una actualización." },
-        { "fecha": "2026-10-04", "texto": "Karaoke con cola compartida: elige tu canción y espera tu turno." },
-        { "fecha": "2026-10-04", "texto": "Turnos de baile en el escenario, con música y ajuste de retraso desde el menú." },
-        { "fecha": "2026-10-04", "texto": "Marcadores para dibujar, con tablero para recolocarlos y limpiar los dibujos." }
+        { "fecha": "2026-10-05", "texto": "Golden abre sus puertas: un salón de gala con bar, café, escenario y salas privadas. Aquí verás todo lo que tiene el mundo y lo que vaya llegando." },
+        { "fecha": "2026-10-05", "texto": "Menú del mundo: mantén el joystick derecho hacia arriba (VR) o la flecha arriba (PC). Ajustes, voz, idioma, reglamento y créditos en 6 idiomas." },
+        { "fecha": "2026-10-05", "texto": "Junto al spawn tienes el cartel que explica cómo abrir y cerrar el menú." }
       ]
     },
     {
       "nombre": "Bar y café",
       "color": "#F2B705",
       "entradas": [
-        { "fecha": "2026-10-02", "texto": "Maid Café: las maids toman pedidos con su tablet, la cocina prepara y se sirve en charola." },
-        { "fecha": "2026-10-02", "texto": "Cafetería con máquina de café completa: moler, extraer, espumar y servir en taza." },
-        { "fecha": "2026-10-02", "texto": "Heladería y aguas de sabor." },
-        { "fecha": "2026-10-02", "texto": "Zona de bebidas renovada: prepara tragos y la borrachera llega poco a poco según lo que bebas." }
+        { "fecha": "2026-10-05", "texto": "Maid Café: las maids toman tu pedido en su tablet, la cocina lo prepara y te lo sirven en charola en tu mesa." },
+        { "fecha": "2026-10-05", "texto": "Cafetería con máquina de café completa: moler, extraer, espumar y servir en taza." },
+        { "fecha": "2026-10-05", "texto": "Heladería y aguas de sabor." },
+        { "fecha": "2026-10-05", "texto": "Bar de tragos: prepara tu bebida y la borrachera llega poco a poco según lo que bebas." }
+      ]
+    },
+    {
+      "nombre": "Escenario y música",
+      "color": "#E0A458",
+      "entradas": [
+        { "fecha": "2026-10-05", "texto": "Karaoke con cola compartida: elige tu canción y espera tu turno." },
+        { "fecha": "2026-10-05", "texto": "Turnos de baile en el escenario." },
+        { "fecha": "2026-10-05", "texto": "Micrófono que se ajusta solo al volumen de tu voz." }
       ]
     },
     {
       "nombre": "Salas y espacios",
-      "color": "#E0A458",
+      "color": "#C9A55A",
       "entradas": [
-        { "fecha": "2026-10-04", "texto": "Cuartos privados con timbre: el primero en entrar es el anfitrión y la pantalla sube del mueble." },
-        { "fecha": "2026-10-03", "texto": "Videoplayers: solo se mantiene encendido el de la sala en la que estás; los demás descansan." },
-        { "fecha": "2026-10-02", "texto": "Anuncios del mundo actualizados desde internet, sin tener que subir el mapa." }
+        { "fecha": "2026-10-05", "texto": "Salas privadas con timbre: llama a la puerta y el anfitrión decide si entras." },
+        { "fecha": "2026-10-05", "texto": "Cuartos con pantalla: el primero en entrar es el anfitrión y la TV sube del mueble." },
+        { "fecha": "2026-10-05", "texto": "Cabinas para reservar un rato con tus amigos." },
+        { "fecha": "2026-10-05", "texto": "Espejos del Salón de Gala con panel de ajustes." },
+        { "fecha": "2026-10-05", "texto": "Cuadros VIP y anuncios del mundo que se actualizan desde internet." }
       ]
     },
     {
       "nombre": "Rendimiento",
-      "color": "#C9A55A",
+      "color": "#B89A5E",
       "entradas": [
-        { "fecha": "2026-10-03", "texto": "Voz por zonas más ligera en PC y en Quest." },
-        { "fecha": "2026-10-02", "texto": "Café y zona de bebidas solo trabajan para quien está dentro." },
+        { "fecha": "2026-10-05", "texto": "Voz por zonas pensada para PC y Quest." },
+        { "fecha": "2026-10-05", "texto": "Solo se mantiene encendido el videoplayer de la sala en la que estás; los demás descansan." },
+        { "fecha": "2026-10-05", "texto": "El café y el bar solo trabajan para quien está dentro." },
         { "fecha": "2026-10-05", "texto": "Modo Flat en el menú (Gráficos): cambia las texturas por colores lisos para ganar rendimiento. Solo cambia para ti." },
-        { "fecha": "2026-10-03", "texto": "Modo de protección: si la red se satura, el mundo se pausa y luego se recupera solo." }
+        { "fecha": "2026-10-05", "texto": "Modo de protección: si la red se satura, el mundo se pausa y luego se recupera solo." }
       ]
     },
     {
       "nombre": "Seguridad",
       "color": "#B8475A",
       "entradas": [
-        { "fecha": "2026-09-30", "texto": "Panel de consentimiento: tú decides si se registran tus datos de visita; puedes retirar el permiso cuando quieras." }
+        { "fecha": "2026-10-05", "texto": "Panel de consentimiento: tú decides si se registran tus datos de visita y puedes retirar el permiso cuando quieras." },
+        { "fecha": "2026-10-05", "texto": "Reglamento del Salón de Gala siempre a mano en el menú." }
       ]
     },
     {
