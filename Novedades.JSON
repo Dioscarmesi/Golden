@@ -1,0 +1,62 @@
+{
+  "titulo": "Novedades de Golden",
+  "version": "V1",
+  "actualizado": "2026-10-05",
+  "categorias": [
+    {
+      "nombre": "Nuevo",
+      "color": "#E8C46A",
+      "entradas": [
+        { "fecha": "2026-10-05", "texto": "Menú del mundo con el estilo del Salón de Gala: ábrelo manteniendo el joystick derecho (VR) o la flecha arriba (PC). Opciones, voz, idioma, reglamento y créditos en 6 idiomas." },
+        { "fecha": "2026-10-05", "texto": "Cartel junto al spawn que explica cómo abrir el menú, en español e inglés." },
+        { "fecha": "2026-10-05", "texto": "Cartel de novedades: aquí verás los cambios del mundo sin esperar a una actualización." },
+        { "fecha": "2026-10-04", "texto": "Karaoke con cola compartida: elige tu canción y espera tu turno." },
+        { "fecha": "2026-10-04", "texto": "Turnos de baile en el escenario, con música y ajuste de retraso desde el menú." },
+        { "fecha": "2026-10-04", "texto": "Marcadores para dibujar, con tablero para recolocarlos y limpiar los dibujos." }
+      ]
+    },
+    {
+      "nombre": "Bar y café",
+      "color": "#F2B705",
+      "entradas": [
+        { "fecha": "2026-10-02", "texto": "Maid Café: las maids toman pedidos con su tablet, la cocina prepara y se sirve en charola." },
+        { "fecha": "2026-10-02", "texto": "Cafetería con máquina de café completa: moler, extraer, espumar y servir en taza." },
+        { "fecha": "2026-10-02", "texto": "Heladería y aguas de sabor." },
+        { "fecha": "2026-10-02", "texto": "Zona de bebidas renovada: prepara tragos y la borrachera llega poco a poco según lo que bebas." }
+      ]
+    },
+    {
+      "nombre": "Salas y espacios",
+      "color": "#E0A458",
+      "entradas": [
+        { "fecha": "2026-10-04", "texto": "Cuartos privados con timbre: el primero en entrar es el anfitrión y la pantalla sube del mueble." },
+        { "fecha": "2026-10-03", "texto": "Videoplayers: solo se mantiene encendido el de la sala en la que estás; los demás descansan." },
+        { "fecha": "2026-10-02", "texto": "Anuncios del mundo actualizados desde internet, sin tener que subir el mapa." }
+      ]
+    },
+    {
+      "nombre": "Rendimiento",
+      "color": "#C9A55A",
+      "entradas": [
+        { "fecha": "2026-10-03", "texto": "Voz por zonas más ligera en PC y en Quest." },
+        { "fecha": "2026-10-02", "texto": "Café y zona de bebidas solo trabajan para quien está dentro." },
+        { "fecha": "2026-10-05", "texto": "Modo Flat en el menú (Gráficos): cambia las texturas por colores lisos para ganar rendimiento. Solo cambia para ti." },
+        { "fecha": "2026-10-03", "texto": "Modo de protección: si la red se satura, el mundo se pausa y luego se recupera solo." }
+      ]
+    },
+    {
+      "nombre": "Seguridad",
+      "color": "#B8475A",
+      "entradas": [
+        { "fecha": "2026-09-30", "texto": "Panel de consentimiento: tú decides si se registran tus datos de visita; puedes retirar el permiso cuando quieras." }
+      ]
+    },
+    {
+      "nombre": "Aviso",
+      "color": "#9A9086",
+      "entradas": [
+        { "fecha": "2026-10-05", "texto": "Si arriba ves una versión distinta a la tuya, abre una instancia nueva para tener la última." }
+      ]
+    }
+  ]
+}
