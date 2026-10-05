@@ -10,5 +10,30 @@
     "Latina",
     "Anime"
   ],
-  "canciones": []
+  "canciones": [
+    {
+      "id": "b_001",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "duration": "04:31",
+      "genre": "Pop",
+      "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+    },
+    {
+      "id": "b_002",
+      "title": "Gangnam Style",
+      "artist": "PSY",
+      "duration": "04:13",
+      "genre": "Kpop",
+      "url": "https://www.youtube.com/watch?v=9bZkp7q19f0"
+    },
+    {
+      "id": "b_003",
+      "title": "Despacito",
+      "artist": "Luis Fonsi ft. Daddy Yankee",
+      "duration": "04:42",
+      "genre": "Reggaeton",
+      "url": "https://www.youtube.com/watch?v=kJQP7kiw5Fk"
+    }
+  ]
 }
