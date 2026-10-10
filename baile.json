@@ -4,6 +4,7 @@
     "Pop",
     "Kpop",
     "Dance",
+    "R&B",
     "Reggaeton",
     "Electrónica",
     "Hip hop",
@@ -13,27 +14,163 @@
   "canciones": [
     {
       "id": "b_001",
-      "title": "Uptown Funk",
-      "artist": "Mark Ronson ft. Bruno Mars",
-      "duration": "04:31",
-      "genre": "Pop",
-      "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+      "title": "Put Your Head on My Shoulder x Streets (TikTok Remix)",
+      "artist": "Red Silhouette challenge",
+      "duration": "03:48",
+      "genre": "Hip hop",
+      "url": "https://www.youtube.com/watch?v=dcjE5tt-BV4"
     },
     {
       "id": "b_002",
-      "title": "Gangnam Style",
-      "artist": "PSY",
-      "duration": "04:13",
-      "genre": "Kpop",
-      "url": "https://www.youtube.com/watch?v=9bZkp7q19f0"
+      "title": "Crew Love",
+      "artist": "Drake ft. The Weeknd",
+      "duration": "03:29",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=WL-3zvnUomk"
     },
     {
       "id": "b_003",
-      "title": "Despacito",
-      "artist": "Luis Fonsi ft. Daddy Yankee",
-      "duration": "04:42",
-      "genre": "Reggaeton",
-      "url": "https://www.youtube.com/watch?v=kJQP7kiw5Fk"
+      "title": "Acquainted",
+      "artist": "The Weeknd",
+      "duration": "05:49",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=e-9ZwGk9FDk"
+    },
+    {
+      "id": "b_004",
+      "title": "Exchange",
+      "artist": "Bryson Tiller",
+      "duration": "03:17",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=iOpJywrdCuQ"
+    },
+    {
+      "id": "b_005",
+      "title": "Die For You",
+      "artist": "The Weeknd",
+      "duration": "04:20",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=QLCpqdqeoII"
+    },
+    {
+      "id": "b_006",
+      "title": "Call Out My Name",
+      "artist": "The Weeknd",
+      "duration": "03:58",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=M4ZoCHID9GI"
+    },
+    {
+      "id": "b_007",
+      "title": "The Hills",
+      "artist": "The Weeknd",
+      "duration": "03:54",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=yzTuBuRdAyA"
+    },
+    {
+      "id": "b_008",
+      "title": "Earned It (Fifty Shades Of Grey)",
+      "artist": "The Weeknd",
+      "duration": "04:38",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=7OE7kv2Kmms"
+    },
+    {
+      "id": "b_009",
+      "title": "Streets",
+      "artist": "Doja Cat",
+      "duration": "03:47",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=oqv35UZepIM"
+    },
+    {
+      "id": "b_010",
+      "title": "Love Me",
+      "artist": "RealestK",
+      "duration": "03:25",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=l3yGbTSfdN8"
+    },
+    {
+      "id": "b_011",
+      "title": "WFM",
+      "artist": "RealestK",
+      "duration": "02:15",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=DWVLSdSAmG4"
+    },
+    {
+      "id": "b_012",
+      "title": "Miss Me",
+      "artist": "RealestK",
+      "duration": "02:30",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=v6wV6Yjx4AU"
+    },
+    {
+      "id": "b_013",
+      "title": "Often",
+      "artist": "The Weeknd",
+      "duration": "04:09",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=YY2ng9SjCTo"
+    },
+    {
+      "id": "b_014",
+      "title": "Low Life",
+      "artist": "Future ft. The Weeknd",
+      "duration": "05:14",
+      "genre": "Hip hop",
+      "url": "https://www.youtube.com/watch?v=j3OzH8URrng"
+    },
+    {
+      "id": "b_015",
+      "title": "Proud",
+      "artist": "SoMo",
+      "duration": "02:55",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=7sYoTd7sSm0"
+    },
+    {
+      "id": "b_016",
+      "title": "Can I",
+      "artist": "Drake",
+      "duration": "03:09",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=JcVLffIBDls"
+    },
+    {
+      "id": "b_017",
+      "title": "B.O.Y.S.N.E.X.T.D.O.O.R.",
+      "artist": "$atori Zoom ft. Isaacwhy",
+      "duration": "02:04",
+      "genre": "Hip hop",
+      "url": "https://www.youtube.com/watch?v=6yMcu8T1RdE"
+    },
+    {
+      "id": "b_018",
+      "title": "ERP Tonight",
+      "artist": "Lit Hark (Cyr) x RJandro",
+      "duration": "01:34",
+      "genre": "Hip hop",
+      "url": "https://www.youtube.com/watch?v=F1emmc6hYTs"
+    },
+    {
+      "id": "b_019",
+      "title": "Do It For Me",
+      "artist": "Rosenfeld",
+      "duration": "03:27",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=1alMvA4xQOY"
+    },
+    {
+      "id": "b_020",
+      "title": "Body",
+      "artist": "Rosenfeld",
+      "duration": "02:27",
+      "genre": "R&B",
+      "url": "https://www.youtube.com/watch?v=v3BcU9UQjpc"
     }
   ]
 }
