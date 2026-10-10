@@ -1,0 +1,64 @@
+{
+  "comunidad": "Club Prueba",
+  "_leeme": "Hoja de PRUEBA del sistema Partner (código 6969). rank solo puede ser: Owner Comunidad, Staff Comunidad, DJ, Dancer, Maid, VIP (los demás se ignoran). banner = celda de banners.png (4x4), card = celda de vip.png (8x4), 0 = nada. Cambia los id por nombres reales de VRChat para probar.",
+  "users": [
+    {
+      "id": "King Karmen",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 1,
+      "group": "Club Prueba",
+      "phrase": "Owner de Golden: puede elegir banner y bajar a Owner Comunidad"
+    },
+    {
+      "id": "KirikuVT",
+      "rank": "Dancer",
+      "banner": 2,
+      "card": 2,
+      "group": "Club Prueba",
+      "phrase": "Maid en Golden, Dancer aquí: mismo escalón, elige"
+    },
+    {
+      "id": "ondera",
+      "rank": "Staff",
+      "banner": 3,
+      "card": 0,
+      "group": "Club Prueba",
+      "phrase": "Staff no lo puede dar un club: solo banner"
+    },
+    {
+      "id": "CAMBIA_ESTE_NOMBRE_1",
+      "rank": "Staff Comunidad",
+      "banner": 4,
+      "card": 3,
+      "group": "Club Prueba",
+      "phrase": "Sin rango en Golden: entra como Staff Comunidad"
+    },
+    {
+      "id": "CAMBIA_ESTE_NOMBRE_2",
+      "rank": "VIP",
+      "banner": 5,
+      "card": 4,
+      "group": "Club Prueba",
+      "phrase": "VIP nuevo del club"
+    }
+  ],
+  "ads": [
+    {
+      "cell": 1,
+      "phrase": "Anuncio 1 del Club Prueba"
+    },
+    {
+      "cell": 2,
+      "phrase": "Anuncio 2 del Club Prueba"
+    },
+    {
+      "cell": 3,
+      "phrase": "Anuncio 3 del Club Prueba"
+    },
+    {
+      "cell": 4,
+      "phrase": "Anuncio 4 del Club Prueba"
+    }
+  ]
+}
