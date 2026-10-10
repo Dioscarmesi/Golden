@@ -1,6 +1,8 @@
 {
   "comunidad": "Club Prueba",
-  "_leeme": "Hoja de PRUEBA del sistema Partner (código 6969). rank solo puede ser: Owner Comunidad, Staff Comunidad, DJ, Dancer, Maid, VIP (los demás se ignoran). banner = celda de banners.png (4x4), card = celda de vip.png (8x4), 0 = nada. Cambia los id por nombres reales de VRChat para probar.",
+  "cards": true,
+  "anuncios": 4,
+  "_leeme": "Hoja de PRUEBA del sistema Partner (código 6969). cards: true = se descargan sus fotos VIP (vip.png); false o sin el campo = no. anuncios: cuántos trae (0 a 4: ad1.png…); 0 o sin el campo = se quedan los de Golden. rank solo puede ser: Owner Comunidad, Staff Comunidad, DJ, Dancer, Maid, VIP (los demás se ignoran). banner = celda de banners.png (4x4), card = celda de vip.png (8x4), 0 = nada. Cambia los id por nombres reales de VRChat para probar.",
   "users": [
     {
       "id": "King Karmen",
