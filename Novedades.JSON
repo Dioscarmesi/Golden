@@ -1,7 +1,7 @@
 {
   "titulo": "Bienvenido a Golden",
   "version": "V1",
-  "actualizado": "2026-10-05",
+  "actualizado": "2026-10-10",
   "categorias": [
     {
       "nombre": "Estreno",
@@ -13,9 +13,18 @@
       ]
     },
     {
+      "nombre": "Comunidad",
+      "color": "#D9A3B5",
+      "entradas": [
+        { "fecha": "2026-10-10", "texto": "Pizarra de Patreon: los nombres de quienes apoyan Golden con su rango (dueño, partner, VIP, maid y dancer). Desde ahí copias el Discord y el Patreon y entras al grupo de VRChat." },
+        { "fecha": "2026-10-10", "texto": "Grupos afiliados: la lista de comunidades amigas de Golden. Pulsa «Unirse» para abrir su grupo." }
+      ]
+    },
+    {
       "nombre": "Bar y café",
       "color": "#F2B705",
       "entradas": [
+        { "fecha": "2026-10-10", "texto": "Mesas del Maid Café: cada mesa tiene un cartel que gira hacia la maid. Desde su tablet puede apagarlos o mostrar las mesas 5 segundos." },
         { "fecha": "2026-10-05", "texto": "Maid Café: las maids toman tu pedido en su tablet, la cocina lo prepara y te lo sirven en charola en tu mesa." },
         { "fecha": "2026-10-05", "texto": "Cafetería con máquina de café completa: moler, extraer, espumar y servir en taza." },
         { "fecha": "2026-10-05", "texto": "Heladería y aguas de sabor." },
@@ -26,6 +35,7 @@
       "nombre": "Escenario y música",
       "color": "#E0A458",
       "entradas": [
+        { "fecha": "2026-10-10", "texto": "Música del baile: el dancer en turno elige y controla la música del escenario." },
         { "fecha": "2026-10-05", "texto": "Karaoke con cola compartida: elige tu canción y espera tu turno." },
         { "fecha": "2026-10-05", "texto": "Turnos de baile en el escenario." },
         { "fecha": "2026-10-05", "texto": "Micrófono que se ajusta solo al volumen de tu voz." }
@@ -57,6 +67,8 @@
       "nombre": "Seguridad",
       "color": "#B8475A",
       "entradas": [
+        { "fecha": "2026-10-10", "texto": "Las salas privadas están protegidas: quien intente entrar volando o por fuera vuelve al spawn." },
+        { "fecha": "2026-10-10", "texto": "Las salas ya no se pueden espiar de lejos, ni siquiera con los espejos." },
         { "fecha": "2026-10-05", "texto": "Panel de consentimiento: tú decides si se registran tus datos de visita y puedes retirar el permiso cuando quieras." },
         { "fecha": "2026-10-05", "texto": "Reglamento del Salón de Gala siempre a mano en el menú." }
       ]
