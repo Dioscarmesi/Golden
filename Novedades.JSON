@@ -80,5 +80,417 @@
         { "fecha": "2026-10-05", "texto": "Si arriba ves una versión distinta a la tuya, abre una instancia nueva para tener la última." }
       ]
     }
-  ]
+  ],
+  "idiomas": {
+    "en": {
+      "titulo": "Welcome to Golden",
+      "categorias": [
+        {
+          "nombre": "Opening",
+          "color": "#E8C46A",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Golden opens its doors: a gala hall with a bar, café, stage and private rooms. Here you'll see everything the world has and what's coming next." },
+            { "fecha": "2026-10-05", "texto": "World menu: hold the right joystick up (VR) or the up arrow (PC). Settings, voice, language, rules and credits in 6 languages." },
+            { "fecha": "2026-10-05", "texto": "Next to the spawn there's a sign explaining how to open and close the menu." }
+          ]
+        },
+        {
+          "nombre": "Community",
+          "color": "#D9A3B5",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Patreon board: the names of those who support Golden with their rank (owner, partner, VIP, maid and dancer). From there you can copy the Discord and Patreon links and join the VRChat group." },
+            { "fecha": "2026-10-10", "texto": "Affiliated groups: the list of Golden's friendly communities. Press “Join” to open their group." }
+          ]
+        },
+        {
+          "nombre": "Bar & café",
+          "color": "#F2B705",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Maid Café tables: each table has a sign that turns toward the maid. From the maid tablet they can be turned off, or the tables shown for 5 seconds." },
+            { "fecha": "2026-10-05", "texto": "Maid Café: maids take your order on their tablet, the kitchen prepares it and it's served on a tray at your table." },
+            { "fecha": "2026-10-05", "texto": "Café with a full coffee machine: grind, brew, froth and serve in a cup." },
+            { "fecha": "2026-10-05", "texto": "Ice cream parlor and flavored waters." },
+            { "fecha": "2026-10-05", "texto": "Cocktail bar: make your drink and the tipsiness builds up little by little depending on what you drink." }
+          ]
+        },
+        {
+          "nombre": "Stage & music",
+          "color": "#E0A458",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Dance music: the dancer on stage picks and controls the stage music." },
+            { "fecha": "2026-10-05", "texto": "Karaoke with a shared queue: pick your song and wait for your turn." },
+            { "fecha": "2026-10-05", "texto": "Dance turns on the stage." },
+            { "fecha": "2026-10-05", "texto": "Microphone that adjusts itself to your voice volume." }
+          ]
+        },
+        {
+          "nombre": "Rooms & spaces",
+          "color": "#C9A55A",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Private rooms with a doorbell: knock and the host decides whether you come in." },
+            { "fecha": "2026-10-05", "texto": "Rooms with a screen: the first one in is the host and the TV rises from the cabinet." },
+            { "fecha": "2026-10-05", "texto": "Booths to book for a while with your friends." },
+            { "fecha": "2026-10-05", "texto": "Gala Hall mirrors with a settings panel." },
+            { "fecha": "2026-10-05", "texto": "VIP frames and world ads that update from the internet." }
+          ]
+        },
+        {
+          "nombre": "Performance",
+          "color": "#B89A5E",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Zoned voice designed for PC and Quest." },
+            { "fecha": "2026-10-05", "texto": "Only the video player of the room you're in stays on; the others rest." },
+            { "fecha": "2026-10-05", "texto": "The café and bar only run for those inside." },
+            { "fecha": "2026-10-05", "texto": "Flat Mode in the menu (Graphics): swaps textures for flat colors to gain performance. It only changes for you." },
+            { "fecha": "2026-10-05", "texto": "Protection mode: if the network gets saturated, the world pauses and then recovers on its own." }
+          ]
+        },
+        {
+          "nombre": "Safety",
+          "color": "#B8475A",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Private rooms are protected: anyone trying to get in by flying or from outside goes back to spawn." },
+            { "fecha": "2026-10-10", "texto": "Rooms can no longer be spied on from afar, not even with mirrors." },
+            { "fecha": "2026-10-05", "texto": "Consent panel: you decide whether your visit data is recorded, and you can withdraw permission whenever you want." },
+            { "fecha": "2026-10-05", "texto": "The Gala Hall rules are always at hand in the menu." }
+          ]
+        },
+        {
+          "nombre": "Notice",
+          "color": "#9A9086",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "If the version shown above is different from yours, open a new instance to get the latest one." }
+          ]
+        }
+      ]
+    },
+    "jp": {
+      "titulo": "Goldenへようこそ",
+      "categorias": [
+        {
+          "nombre": "オープン",
+          "color": "#E8C46A",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Goldenがオープン！バー、カフェ、ステージ、プライベートルームのあるガラホールです。ここではワールドのすべてと、これから追加されるものを確認できます。" },
+            { "fecha": "2026-10-05", "texto": "ワールドメニュー：右スティックを上に倒したまま（VR）、または上矢印キー（PC）。設定、ボイス、言語、ルール、クレジットを6言語で。" },
+            { "fecha": "2026-10-05", "texto": "スポーンの横に、メニューの開き方・閉じ方を説明する看板があります。" }
+          ]
+        },
+        {
+          "nombre": "コミュニティ",
+          "color": "#D9A3B5",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Patreonボード：Goldenを支えてくれる方々の名前をランク（オーナー、パートナー、VIP、メイド、ダンサー）付きで表示。DiscordとPatreonのリンクをコピーしたり、VRChatグループに参加できます。" },
+            { "fecha": "2026-10-10", "texto": "提携グループ：Goldenの友好コミュニティの一覧。「参加」を押すとそのグループが開きます。" }
+          ]
+        },
+        {
+          "nombre": "バー＆カフェ",
+          "color": "#F2B705",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "メイドカフェのテーブル：各テーブルの案内板がメイドの方を向きます。メイド用タブレットからオフにしたり、テーブルを5秒間表示できます。" },
+            { "fecha": "2026-10-05", "texto": "メイドカフェ：メイドがタブレットで注文を受け、キッチンが調理し、トレーでテーブルまで運びます。" },
+            { "fecha": "2026-10-05", "texto": "本格コーヒーマシンのあるカフェ：挽く、抽出する、泡立てる、カップに注ぐ。" },
+            { "fecha": "2026-10-05", "texto": "アイスクリーム屋とフレーバーウォーター。" },
+            { "fecha": "2026-10-05", "texto": "カクテルバー：ドリンクを作ると、飲んだ量に応じて少しずつ酔いが回ります。" }
+          ]
+        },
+        {
+          "nombre": "ステージ＆音楽",
+          "color": "#E0A458",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "ダンス音楽：ステージのダンサーが音楽を選んで操作します。" },
+            { "fecha": "2026-10-05", "texto": "共有キュー付きカラオケ：曲を選んで順番を待ちましょう。" },
+            { "fecha": "2026-10-05", "texto": "ステージでのダンスは順番制です。" },
+            { "fecha": "2026-10-05", "texto": "声の大きさに自動で合わせてくれるマイク。" }
+          ]
+        },
+        {
+          "nombre": "ルーム＆スペース",
+          "color": "#C9A55A",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "チャイム付きのプライベートルーム：ノックすると、入れるかどうかをホストが決めます。" },
+            { "fecha": "2026-10-05", "texto": "スクリーン付きの部屋：最初に入った人がホストになり、テレビが家具からせり上がります。" },
+            { "fecha": "2026-10-05", "texto": "友達としばらく過ごせる予約制ブース。" },
+            { "fecha": "2026-10-05", "texto": "設定パネル付きのガラホールの鏡。" },
+            { "fecha": "2026-10-05", "texto": "インターネットから更新されるVIPフレームとワールド広告。" }
+          ]
+        },
+        {
+          "nombre": "パフォーマンス",
+          "color": "#B89A5E",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "PCとQuest向けに設計されたゾーン別ボイス。" },
+            { "fecha": "2026-10-05", "texto": "今いる部屋のビデオプレイヤーだけが動作し、他は休止します。" },
+            { "fecha": "2026-10-05", "texto": "カフェとバーは中にいる人のためだけに動作します。" },
+            { "fecha": "2026-10-05", "texto": "メニューのフラットモード（グラフィック）：テクスチャを単色に置き換えて軽くします。変わるのは自分の画面だけです。" },
+            { "fecha": "2026-10-05", "texto": "保護モード：ネットワークが混雑するとワールドが一時停止し、その後自動で復帰します。" }
+          ]
+        },
+        {
+          "nombre": "安全",
+          "color": "#B8475A",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "プライベートルームは保護されています：飛んだり外から入ろうとするとスポーンに戻されます。" },
+            { "fecha": "2026-10-10", "texto": "部屋を遠くから覗くことはできません。鏡を使っても見えません。" },
+            { "fecha": "2026-10-05", "texto": "同意パネル：訪問データを記録するかどうかは自分で決められ、いつでも取り消せます。" },
+            { "fecha": "2026-10-05", "texto": "ガラホールのルールはいつでもメニューから確認できます。" }
+          ]
+        },
+        {
+          "nombre": "お知らせ",
+          "color": "#9A9086",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "上に表示されたバージョンが自分のものと違う場合は、新しいインスタンスを開いて最新版にしてください。" }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "titulo": "Bienvenue à Golden",
+      "categorias": [
+        {
+          "nombre": "Ouverture",
+          "color": "#E8C46A",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Golden ouvre ses portes : une salle de gala avec bar, café, scène et salons privés. Ici, tu verras tout ce qu'offre le monde et ce qui arrive." },
+            { "fecha": "2026-10-05", "texto": "Menu du monde : maintiens le joystick droit vers le haut (VR) ou la flèche du haut (PC). Réglages, voix, langue, règlement et crédits en 6 langues." },
+            { "fecha": "2026-10-05", "texto": "À côté du spawn, un panneau explique comment ouvrir et fermer le menu." }
+          ]
+        },
+        {
+          "nombre": "Communauté",
+          "color": "#D9A3B5",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Tableau Patreon : les noms de celles et ceux qui soutiennent Golden, avec leur rang (propriétaire, partenaire, VIP, maid et danseur). De là, tu copies le Discord et le Patreon et tu rejoins le groupe VRChat." },
+            { "fecha": "2026-10-10", "texto": "Groupes affiliés : la liste des communautés amies de Golden. Appuie sur « Rejoindre » pour ouvrir leur groupe." }
+          ]
+        },
+        {
+          "nombre": "Bar et café",
+          "color": "#F2B705",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Tables du Maid Café : chaque table a un panneau qui se tourne vers la maid. Depuis la tablette des maids, on peut les éteindre ou afficher les tables 5 secondes." },
+            { "fecha": "2026-10-05", "texto": "Maid Café : les maids prennent ta commande sur leur tablette, la cuisine la prépare et on te la sert sur un plateau à ta table." },
+            { "fecha": "2026-10-05", "texto": "Café avec une machine à café complète : moudre, extraire, faire mousser et servir en tasse." },
+            { "fecha": "2026-10-05", "texto": "Glacier et eaux aromatisées." },
+            { "fecha": "2026-10-05", "texto": "Bar à cocktails : prépare ta boisson ; l'ivresse monte peu à peu selon ce que tu bois." }
+          ]
+        },
+        {
+          "nombre": "Scène et musique",
+          "color": "#E0A458",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Musique de danse : le danseur sur scène choisit et contrôle la musique." },
+            { "fecha": "2026-10-05", "texto": "Karaoké avec file d'attente partagée : choisis ta chanson et attends ton tour." },
+            { "fecha": "2026-10-05", "texto": "Tours de danse sur scène." },
+            { "fecha": "2026-10-05", "texto": "Micro qui s'ajuste tout seul au volume de ta voix." }
+          ]
+        },
+        {
+          "nombre": "Salons et espaces",
+          "color": "#C9A55A",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Salons privés avec sonnette : frappe à la porte et l'hôte décide si tu entres." },
+            { "fecha": "2026-10-05", "texto": "Chambres avec écran : le premier à entrer devient l'hôte et la télé sort du meuble." },
+            { "fecha": "2026-10-05", "texto": "Cabines à réserver un moment avec tes amis." },
+            { "fecha": "2026-10-05", "texto": "Miroirs de la salle de gala avec panneau de réglages." },
+            { "fecha": "2026-10-05", "texto": "Cadres VIP et publicités du monde mis à jour depuis Internet." }
+          ]
+        },
+        {
+          "nombre": "Performances",
+          "color": "#B89A5E",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Voix par zones pensée pour PC et Quest." },
+            { "fecha": "2026-10-05", "texto": "Seul le lecteur vidéo de la salle où tu te trouves reste allumé ; les autres se reposent." },
+            { "fecha": "2026-10-05", "texto": "Le café et le bar ne fonctionnent que pour ceux qui sont à l'intérieur." },
+            { "fecha": "2026-10-05", "texto": "Mode Flat dans le menu (Graphismes) : remplace les textures par des couleurs unies pour gagner en performances. Le changement ne concerne que toi." },
+            { "fecha": "2026-10-05", "texto": "Mode protection : si le réseau sature, le monde se met en pause puis se rétablit tout seul." }
+          ]
+        },
+        {
+          "nombre": "Sécurité",
+          "color": "#B8475A",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Les salons privés sont protégés : qui essaie d'entrer en volant ou par l'extérieur retourne au spawn." },
+            { "fecha": "2026-10-10", "texto": "On ne peut plus espionner les salons de loin, même avec les miroirs." },
+            { "fecha": "2026-10-05", "texto": "Panneau de consentement : tu décides si tes données de visite sont enregistrées et tu peux retirer ton accord quand tu veux." },
+            { "fecha": "2026-10-05", "texto": "Le règlement de la salle de gala est toujours accessible dans le menu." }
+          ]
+        },
+        {
+          "nombre": "Avis",
+          "color": "#9A9086",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Si la version affichée en haut n'est pas la tienne, ouvre une nouvelle instance pour avoir la dernière." }
+          ]
+        }
+      ]
+    },
+    "de": {
+      "titulo": "Willkommen im Golden",
+      "categorias": [
+        {
+          "nombre": "Eröffnung",
+          "color": "#E8C46A",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Golden öffnet seine Türen: ein Galasaal mit Bar, Café, Bühne und privaten Räumen. Hier siehst du alles, was die Welt bietet, und was noch kommt." },
+            { "fecha": "2026-10-05", "texto": "Weltmenü: Halte den rechten Joystick nach oben (VR) oder die Pfeiltaste nach oben (PC). Einstellungen, Stimme, Sprache, Regeln und Credits in 6 Sprachen." },
+            { "fecha": "2026-10-05", "texto": "Neben dem Spawn erklärt ein Schild, wie du das Menü öffnest und schließt." }
+          ]
+        },
+        {
+          "nombre": "Community",
+          "color": "#D9A3B5",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Patreon-Tafel: die Namen aller, die Golden unterstützen, mit ihrem Rang (Inhaber, Partner, VIP, Maid und Dancer). Dort kopierst du Discord und Patreon und trittst der VRChat-Gruppe bei." },
+            { "fecha": "2026-10-10", "texto": "Partnergruppen: die Liste der befreundeten Communitys von Golden. Tippe auf „Beitreten“, um ihre Gruppe zu öffnen." }
+          ]
+        },
+        {
+          "nombre": "Bar & Café",
+          "color": "#F2B705",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Tische im Maid Café: Jeder Tisch hat ein Schild, das sich zur Maid dreht. Über das Maid-Tablet lassen sie sich ausschalten oder die Tische 5 Sekunden lang anzeigen." },
+            { "fecha": "2026-10-05", "texto": "Maid Café: Die Maids nehmen deine Bestellung am Tablet auf, die Küche bereitet sie zu und sie wird dir auf einem Tablett an den Tisch gebracht." },
+            { "fecha": "2026-10-05", "texto": "Café mit kompletter Kaffeemaschine: mahlen, brühen, aufschäumen und in die Tasse gießen." },
+            { "fecha": "2026-10-05", "texto": "Eisdiele und aromatisiertes Wasser." },
+            { "fecha": "2026-10-05", "texto": "Cocktailbar: Mix dir dein Getränk – der Rausch kommt nach und nach, je nachdem, was du trinkst." }
+          ]
+        },
+        {
+          "nombre": "Bühne & Musik",
+          "color": "#E0A458",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Tanzmusik: Wer gerade auf der Bühne tanzt, wählt und steuert die Musik." },
+            { "fecha": "2026-10-05", "texto": "Karaoke mit gemeinsamer Warteschlange: Wähle deinen Song und warte, bis du dran bist." },
+            { "fecha": "2026-10-05", "texto": "Tanzrunden auf der Bühne." },
+            { "fecha": "2026-10-05", "texto": "Mikrofon, das sich automatisch an die Lautstärke deiner Stimme anpasst." }
+          ]
+        },
+        {
+          "nombre": "Räume & Bereiche",
+          "color": "#C9A55A",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Private Räume mit Klingel: Klopf an, und der Gastgeber entscheidet, ob du hereinkommst." },
+            { "fecha": "2026-10-05", "texto": "Zimmer mit Bildschirm: Wer zuerst eintritt, ist Gastgeber, und der Fernseher fährt aus dem Möbel hoch." },
+            { "fecha": "2026-10-05", "texto": "Kabinen, die du für eine Weile mit Freunden reservieren kannst." },
+            { "fecha": "2026-10-05", "texto": "Spiegel im Galasaal mit Einstellungspanel." },
+            { "fecha": "2026-10-05", "texto": "VIP-Rahmen und Werbung in der Welt, die sich aus dem Internet aktualisieren." }
+          ]
+        },
+        {
+          "nombre": "Leistung",
+          "color": "#B89A5E",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Zonen-Sprachchat für PC und Quest." },
+            { "fecha": "2026-10-05", "texto": "Nur der Videoplayer des Raums, in dem du bist, bleibt an; die anderen ruhen." },
+            { "fecha": "2026-10-05", "texto": "Café und Bar arbeiten nur für die, die drinnen sind." },
+            { "fecha": "2026-10-05", "texto": "Flat-Modus im Menü (Grafik): ersetzt Texturen durch einfarbige Flächen für mehr Leistung. Ändert sich nur für dich." },
+            { "fecha": "2026-10-05", "texto": "Schutzmodus: Wenn das Netzwerk überlastet ist, pausiert die Welt und erholt sich dann von selbst." }
+          ]
+        },
+        {
+          "nombre": "Sicherheit",
+          "color": "#B8475A",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Private Räume sind geschützt: Wer fliegend oder von außen hinein will, landet wieder am Spawn." },
+            { "fecha": "2026-10-10", "texto": "Die Räume lassen sich nicht mehr aus der Ferne ausspionieren, auch nicht mit Spiegeln." },
+            { "fecha": "2026-10-05", "texto": "Einwilligungspanel: Du entscheidest, ob deine Besuchsdaten erfasst werden, und kannst die Zustimmung jederzeit widerrufen." },
+            { "fecha": "2026-10-05", "texto": "Die Regeln des Galasaals sind im Menü immer griffbereit." }
+          ]
+        },
+        {
+          "nombre": "Hinweis",
+          "color": "#9A9086",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Wenn oben eine andere Version als deine steht, öffne eine neue Instanz, um die neueste zu bekommen." }
+          ]
+        }
+      ]
+    },
+    "ru": {
+      "titulo": "Добро пожаловать в Golden",
+      "categorias": [
+        {
+          "nombre": "Открытие",
+          "color": "#E8C46A",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Golden открывает двери: гала-зал с баром, кафе, сценой и приватными комнатами. Здесь ты увидишь всё, что есть в мире, и то, что появится дальше." },
+            { "fecha": "2026-10-05", "texto": "Меню мира: держи правый стик вверх (VR) или стрелку вверх (ПК). Настройки, голос, язык, правила и титры на 6 языках." },
+            { "fecha": "2026-10-05", "texto": "Рядом со спавном есть табличка, которая объясняет, как открыть и закрыть меню." }
+          ]
+        },
+        {
+          "nombre": "Сообщество",
+          "color": "#D9A3B5",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Доска Patreon: имена тех, кто поддерживает Golden, с их рангом (владелец, партнёр, VIP, мейд и танцор). Оттуда можно скопировать Discord и Patreon и вступить в группу VRChat." },
+            { "fecha": "2026-10-10", "texto": "Партнёрские группы: список дружественных сообществ Golden. Нажми «Вступить», чтобы открыть их группу." }
+          ]
+        },
+        {
+          "nombre": "Бар и кафе",
+          "color": "#F2B705",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Столы в мейд-кафе: у каждого стола есть табличка, которая поворачивается к мейд. С планшета мейд их можно выключить или показать столы на 5 секунд." },
+            { "fecha": "2026-10-05", "texto": "Мейд-кафе: мейды принимают заказ на планшете, кухня его готовит, и тебе приносят его на подносе к столу." },
+            { "fecha": "2026-10-05", "texto": "Кафе с полноценной кофемашиной: помол, заваривание, вспенивание и подача в чашке." },
+            { "fecha": "2026-10-05", "texto": "Кафе-мороженое и ароматизированная вода." },
+            { "fecha": "2026-10-05", "texto": "Коктейль-бар: приготовь напиток — опьянение приходит постепенно, в зависимости от выпитого." }
+          ]
+        },
+        {
+          "nombre": "Сцена и музыка",
+          "color": "#E0A458",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Музыка для танцев: танцор на сцене выбирает музыку и управляет ею." },
+            { "fecha": "2026-10-05", "texto": "Караоке с общей очередью: выбери песню и дождись своей очереди." },
+            { "fecha": "2026-10-05", "texto": "Очередь танцев на сцене." },
+            { "fecha": "2026-10-05", "texto": "Микрофон, который сам подстраивается под громкость твоего голоса." }
+          ]
+        },
+        {
+          "nombre": "Комнаты и пространства",
+          "color": "#C9A55A",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Приватные комнаты со звонком: постучи, и хозяин решит, впустить ли тебя." },
+            { "fecha": "2026-10-05", "texto": "Комнаты с экраном: кто вошёл первым, тот и хозяин, а телевизор выезжает из тумбы." },
+            { "fecha": "2026-10-05", "texto": "Кабинки, которые можно занять на время с друзьями." },
+            { "fecha": "2026-10-05", "texto": "Зеркала гала-зала с панелью настроек." },
+            { "fecha": "2026-10-05", "texto": "VIP-рамки и реклама мира, которые обновляются из интернета." }
+          ]
+        },
+        {
+          "nombre": "Производительность",
+          "color": "#B89A5E",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Голос по зонам, рассчитанный на ПК и Quest." },
+            { "fecha": "2026-10-05", "texto": "Включён только видеоплеер той комнаты, где ты находишься; остальные отдыхают." },
+            { "fecha": "2026-10-05", "texto": "Кафе и бар работают только для тех, кто внутри." },
+            { "fecha": "2026-10-05", "texto": "Режим Flat в меню (Графика): заменяет текстуры однотонными цветами ради производительности. Меняется только у тебя." },
+            { "fecha": "2026-10-05", "texto": "Режим защиты: если сеть перегружена, мир ставится на паузу, а потом восстанавливается сам." }
+          ]
+        },
+        {
+          "nombre": "Безопасность",
+          "color": "#B8475A",
+          "entradas": [
+            { "fecha": "2026-10-10", "texto": "Приватные комнаты защищены: кто пытается попасть внутрь по воздуху или снаружи, возвращается на спавн." },
+            { "fecha": "2026-10-10", "texto": "За комнатами больше нельзя подглядывать издалека — даже через зеркала." },
+            { "fecha": "2026-10-05", "texto": "Панель согласия: ты решаешь, записывать ли данные о посещении, и можешь отозвать согласие в любой момент." },
+            { "fecha": "2026-10-05", "texto": "Правила гала-зала всегда под рукой в меню." }
+          ]
+        },
+        {
+          "nombre": "Внимание",
+          "color": "#9A9086",
+          "entradas": [
+            { "fecha": "2026-10-05", "texto": "Если наверху указана другая версия, чем у тебя, открой новую инстанцию, чтобы получить последнюю." }
+          ]
+        }
+      ]
+    }
+  }
 }
