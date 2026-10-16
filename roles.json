@@ -1,12 +1,12 @@
 {
   "users": [
     { "id": "King Karmen", "rank": "Owner", "banner": 1004, "card": 1 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 2 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 3 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 4 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 5 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 6 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 7 },
+    { "id": "Demon kuma", "rank": "Staff", "banner": 1005, "card": 2 },
+    { "id": "yamiyamero", "rank": "Owner", "banner": 1004, "card": 3 },
+    { "id": "Strikkerz'", "rank": "Staff", "banner": 1005, "card": 4 },
+    { "id": "Akzara", "rank": "Staff", "banner": 1005, "card": 5 },
+    { "id": "Yutaura", "rank": "Staff", "banner": 1005, "card": 6 },
+    { "id": "Lewanygg", "rank": "Maid", "banner": 1007, "card": 7 },
     { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 8 },
     { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 9 },
     { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 10 },
@@ -76,8 +76,7 @@
     { "id": "katypelayo", "rank": "Maid", "banner": 1007 },
     { "id": "WithushaPWT", "rank": "Maid", "banner": 1007 },
     { "id": "dakureon", "rank": "Maid", "banner": 1007 },
-    { "id": "ESTRELLA2543", "rank": "Maid", "banner": 1007 },
-    { "id": "Lewanygg", "rank": "Maid", "banner": 1007 }
+    { "id": "ESTRELLA2543", "rank": "Maid", "banner": 1007 }
   ],
   "ads": [
     { "cell": 1, "phrase": "Maid Café · Atención con estilo" },
