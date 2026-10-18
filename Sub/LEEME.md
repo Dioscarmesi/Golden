@@ -4,7 +4,7 @@ Una carpeta numerada por comunidad (`001`, `002`…). La API (`/p/{código}`) el
 
 | Archivo | Qué es | Lo usa hoy |
 |---|---|---|
-| `hoja.json` | usuarios (`id` = nombre EXACTO de VRChat), `rank`, `banner`, `card`; `cards` true/false; `anuncios` 0–4 | ✅ |
+| `hoja.json` | usuarios (`id` = nombre EXACTO de VRChat), `rank`, `banner`, `card`; `cards` true/false (sus cards se SUMAN a las de Golden); `cardsSolo` true = solo las del club (requiere el mundo nuevo); `anuncios` 0–4 | ✅ |
 | `info.json` | nombre de la comunidad y notas (no se descarga) | — |
 | `banners.png` | atlas 4×4 de coronas (1024², celdas de 256) | ✅ |
 | `coronas/N.png` | **corona N suelta, 1024×1024 con margen** (dibujo al 55 %). Mismo número que `banner` en la hoja | ⏳ preparado para el cambio |
