@@ -1,88 +1,136 @@
 {
   "comunidad": "The Kings Club",
-  "cards": false,
+  "cards": true,
   "anuncios": 0,
-  "_leeme": "Hoja Partner de The Kings Club (Sub/002). Sin cards ni anuncios propios: se quedan los de Golden. banner = celda de banners.png (1 Owner, 2 Manager, 3 Jefe de staff, 4 Staff, 5 Jefe de dancer, 6 Dancer, 7 VIP; la 7 aún sin usuarios). id = nombre visible EXACTO de VRChat.",
+  "_leeme": "Hoja Partner de The Kings Club (Sub/002). Cards propias (vip.png 8x4, 16 cards): en las instancias con el código 2549 las cartas muestran SOLO las del club. Sin anuncios propios: se quedan los de Golden. banner = celda de banners.png (1 Owner, 2 Manager, 3 Jefe de staff, 4 Staff, 5 Jefe de dancer, 6 Dancer, 7 VIP sin usuarios). id = nombre visible EXACTO de VRChat (leídos de las cards: confirmar).",
   "users": [
     {
       "id": "Aby",
       "rank": "Owner Comunidad",
       "banner": 1,
-      "card": 0,
+      "card": 1,
       "group": "The Kings Club",
       "phrase": "Owner de The Kings Club"
     },
     {
-      "id": "Milu",
+      "id": "Milunae",
       "rank": "Owner Comunidad",
       "banner": 2,
-      "card": 0,
+      "card": 2,
       "group": "The Kings Club",
       "phrase": "Manager de The Kings Club"
     },
     {
-      "id": "Zyrex",
+      "id": "乙丫尺乇乂",
       "rank": "Staff Comunidad",
       "banner": 3,
-      "card": 0,
+      "card": 3,
       "group": "The Kings Club",
       "phrase": "Jefe de moderación de The Kings Club"
     },
     {
-      "id": "Clover",
+      "id": "CloverPD-",
       "rank": "Staff Comunidad",
       "banner": 4,
-      "card": 0,
+      "card": 4,
       "group": "The Kings Club",
       "phrase": "Moderación de The Kings Club"
     },
     {
-      "id": "Criss",
+      "id": "Crzzz04",
       "rank": "Staff Comunidad",
       "banner": 4,
-      "card": 0,
+      "card": 5,
       "group": "The Kings Club",
       "phrase": "Moderación de The Kings Club"
     },
     {
-      "id": "Luen",
+      "id": "Luen 信",
       "rank": "Staff Comunidad",
       "banner": 4,
-      "card": 0,
+      "card": 6,
       "group": "The Kings Club",
       "phrase": "Moderación de The Kings Club"
     },
     {
-      "id": "Traumaz",
+      "id": "traumaz",
       "rank": "Staff Comunidad",
       "banner": 4,
-      "card": 0,
+      "card": 7,
       "group": "The Kings Club",
       "phrase": "Moderación de The Kings Club"
     },
     {
-      "id": "Like",
+      "id": "Likelyz",
       "rank": "Staff Comunidad",
       "banner": 4,
-      "card": 0,
+      "card": 8,
       "group": "The Kings Club",
       "phrase": "Moderación de The Kings Club"
     },
     {
-      "id": "Dani",
+      "id": "Daniuwu07",
       "rank": "Staff Comunidad",
       "banner": 4,
-      "card": 0,
+      "card": 9,
       "group": "The Kings Club",
       "phrase": "Moderación de The Kings Club"
     },
     {
-      "id": "Star",
+      "id": "xXSTAR-LIGHTXx",
       "rank": "Dancer",
       "banner": 5,
-      "card": 0,
+      "card": 10,
       "group": "The Kings Club",
       "phrase": "Jefe de dancers de The Kings Club"
+    },
+    {
+      "id": "adri_rxd",
+      "rank": "Dancer",
+      "banner": 6,
+      "card": 11,
+      "group": "The Kings Club",
+      "phrase": "Dancer de The Kings Club"
+    },
+    {
+      "id": "AKII ®",
+      "rank": "Dancer",
+      "banner": 6,
+      "card": 12,
+      "group": "The Kings Club",
+      "phrase": "Dancer de The Kings Club"
+    },
+    {
+      "id": "GoTica. Nya",
+      "rank": "Dancer",
+      "banner": 6,
+      "card": 13,
+      "group": "The Kings Club",
+      "phrase": "Dancer de The Kings Club"
+    },
+    {
+      "id": "~Naoya~",
+      "rank": "Dancer",
+      "banner": 6,
+      "card": 14,
+      "group": "The Kings Club",
+      "phrase": "Dancer de The Kings Club"
+    },
+    {
+      "id": "Violet Himiko",
+      "rank": "Dancer",
+      "banner": 6,
+      "card": 15,
+      "group": "The Kings Club",
+      "phrase": "Dancer de The Kings Club"
+    },
+    {
+      "id": "Inalca©",
+      "rank": "Dancer",
+      "banner": 6,
+      "card": 16,
+      "group": "The Kings Club",
+      "phrase": "Dancer de The Kings Club"
     }
   ],
   "ads": []
