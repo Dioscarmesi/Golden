@@ -4,7 +4,7 @@ Una carpeta numerada por comunidad (`001`, `002`…). La API (`/p/{código}`) el
 
 | Archivo | Qué es | Lo usa hoy |
 |---|---|---|
-| `hoja.json` | usuarios (`id` = nombre EXACTO de VRChat), `rank`, `banner`, `card`; `cards` true/false (sus cards se SUMAN a las de Golden); `cardsSolo` true = solo las del club (requiere el mundo nuevo); `anuncios` 0–4; `coronas` N (0–16) = usa `coronas/1..N.png` sueltas en vez de `banners.png` (solo baja las que lleve alguien) | ✅ |
+| `hoja.json` | usuarios (`id` = nombre EXACTO de VRChat), `rank`, `banner`, `card`; `cards`: `"golden"` (solo Golden) · `"juntas"` (Golden + club) · `"club"` (solo club) — ver tabla abajo; `anuncios` 0–4; `coronas` N (0–16) = usa `coronas/1..N.png` sueltas en vez de `banners.png` (solo baja las que lleve alguien) | ✅ |
 | `info.json` | nombre de la comunidad y notas (no se descarga) | — |
 | `banners.png` | atlas 4×4 de coronas (1024², celdas de 256) | ✅ |
 | `coronas/N.png` | **corona N suelta, 1024×1024 con margen** (dibujo al 55 %), PC. Mismo número que `banner` en la hoja. Máx. 16 | ⏳ mundo listo, falta API |
@@ -14,5 +14,15 @@ Una carpeta numerada por comunidad (`001`, `002`…). La API (`/p/{código}`) el
 | `ad1..ad4.png` | anuncios del club (1024×512); solo los que diga `anuncios` | según la hoja |
 
 Alta de una comunidad: carpeta nueva + `hoja.json` + `banners.png` + `coronas/` (+ `cards_pc/quest.png` si trae cards) + línea en `partner-codigos.json`.
+
+## Modos de cards (`"cards"` en la hoja)
+
+| Valor | Mundo nuevo | Mundo publicado (anterior) |
+|---|---|---|
+| `"golden"` o sin campo | solo las de Golden | solo las de Golden |
+| `"juntas"` | Golden + club (cada card del club sale seguro) | solo las de Golden (no entiende el texto) |
+| `"club"` | solo las del club (libera las de Golden) | solo las de Golden (no entiende el texto) |
+| `true` (formato viejo) | = `"club"` | solo las del club |
+| `false` (formato viejo) | = `"golden"` | solo las de Golden |
 
 **Ojo:** hasta que el mundo y la API usen `cards_pc/quest.png`, una comunidad SIN `vip.png` debe tener `"cards": false`.
