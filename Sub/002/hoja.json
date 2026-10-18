@@ -1,0 +1,89 @@
+{
+  "comunidad": "The Kings Club",
+  "cards": false,
+  "anuncios": 0,
+  "_leeme": "Hoja Partner de The Kings Club (Sub/002). Sin cards ni anuncios propios: se quedan los de Golden. banner = celda de banners.png (1 Owner, 2 Manager, 3 Jefe de staff, 4 Staff, 5 Jefe de dancer, 6 Dancer). id = nombre visible EXACTO de VRChat.",
+  "users": [
+    {
+      "id": "Aby",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "group": "The Kings Club",
+      "phrase": "Owner de The Kings Club"
+    },
+    {
+      "id": "Milu",
+      "rank": "Owner Comunidad",
+      "banner": 2,
+      "card": 0,
+      "group": "The Kings Club",
+      "phrase": "Manager de The Kings Club"
+    },
+    {
+      "id": "Zyrex",
+      "rank": "Staff Comunidad",
+      "banner": 3,
+      "card": 0,
+      "group": "The Kings Club",
+      "phrase": "Jefe de moderación de The Kings Club"
+    },
+    {
+      "id": "Clover",
+      "rank": "Staff Comunidad",
+      "banner": 4,
+      "card": 0,
+      "group": "The Kings Club",
+      "phrase": "Moderación de The Kings Club"
+    },
+    {
+      "id": "Criss",
+      "rank": "Staff Comunidad",
+      "banner": 4,
+      "card": 0,
+      "group": "The Kings Club",
+      "phrase": "Moderación de The Kings Club"
+    },
+    {
+      "id": "Luen",
+      "rank": "Staff Comunidad",
+      "banner": 4,
+      "card": 0,
+      "group": "The Kings Club",
+      "phrase": "Moderación de The Kings Club"
+    },
+    {
+      "id": "Traumaz",
+      "rank": "Staff Comunidad",
+      "banner": 4,
+      "card": 0,
+      "group": "The Kings Club",
+      "phrase": "Moderación de The Kings Club"
+    },
+    {
+      "id": "Like",
+      "rank": "Staff Comunidad",
+      "banner": 4,
+      "card": 0,
+      "group": "The Kings Club",
+      "phrase": "Moderación de The Kings Club"
+    },
+    {
+      "id": "Dani",
+      "rank": "Staff Comunidad",
+      "banner": 4,
+      "card": 0,
+      "group": "The Kings Club",
+      "phrase": "Moderación de The Kings Club"
+    },
+    {
+      "id": "Star",
+      "rank": "Dancer",
+      "banner": 5,
+      "card": 0,
+      "group": "The Kings Club",
+      "phrase": "Jefe de dancers de The Kings Club"
+    }
+  ],
+  "ads": []
+}
