@@ -2,7 +2,7 @@
   "comunidad": "The Kings Club",
   "cards": false,
   "anuncios": 0,
-  "_leeme": "Hoja Partner de The Kings Club (Sub/002). cards: false = con el código 2549 se conservan las cards de Golden (vip.png queda subido sin usarse; 'card' de cada usuario = su celda si algún día se activa). Sin anuncios propios: se quedan los de Golden. banner = celda de banners.png (1 Owner, 2 Manager, 3 Jefe de staff, 4 Staff, 5 Jefe de dancer, 6 Dancer, 7 VIP sin usuarios). id = nombre visible EXACTO de VRChat (leídos de las cards: confirmar).",
+  "_leeme": "Hoja Partner de The Kings Club (Sub/002). cards: false = con el código 2549 se conservan las cards de Golden (cards_pc.png/cards_quest.png quedan subidos sin usarse; 'card' de cada usuario = su celda si algún día se activa). Sin anuncios propios: se quedan los de Golden. banner = celda de banners.png (1 Owner, 2 Manager, 3 Jefe de staff, 4 Staff, 5 Jefe de dancer, 6 Dancer, 7 VIP sin usuarios). id = nombre visible EXACTO de VRChat (leídos de las cards: confirmar).",
   "users": [
     {
       "id": "Aby",
