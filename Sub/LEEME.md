@@ -4,10 +4,11 @@ Una carpeta numerada por comunidad (`001`, `002`…). La API (`/p/{código}`) el
 
 | Archivo | Qué es | Lo usa hoy |
 |---|---|---|
-| `hoja.json` | usuarios (`id` = nombre EXACTO de VRChat), `rank`, `banner`, `card`; `cards` true/false (sus cards se SUMAN a las de Golden); `cardsSolo` true = solo las del club (requiere el mundo nuevo); `anuncios` 0–4 | ✅ |
+| `hoja.json` | usuarios (`id` = nombre EXACTO de VRChat), `rank`, `banner`, `card`; `cards` true/false (sus cards se SUMAN a las de Golden); `cardsSolo` true = solo las del club (requiere el mundo nuevo); `anuncios` 0–4; `coronas` N (0–16) = usa `coronas/1..N.png` sueltas en vez de `banners.png` (solo baja las que lleve alguien) | ✅ |
 | `info.json` | nombre de la comunidad y notas (no se descarga) | — |
 | `banners.png` | atlas 4×4 de coronas (1024², celdas de 256) | ✅ |
-| `coronas/N.png` | **corona N suelta, 1024×1024 con margen** (dibujo al 55 %). Mismo número que `banner` en la hoja | ⏳ preparado para el cambio |
+| `coronas/N.png` | **corona N suelta, 1024×1024 con margen** (dibujo al 55 %), PC. Mismo número que `banner` en la hoja. Máx. 16 | ⏳ mundo listo, falta API |
+| `coronas_quest/N.png` | la misma corona a 512×512 para Quest | ⏳ mundo listo, falta API |
 | `cards_pc.png` / `cards_quest.png` | atlas 8×4 de cards: PC 2048², Quest 1024² (como `users_A_pc/quest` de Golden). `card` de la hoja = celda | ⏳ preparado (aún hace falta cambio en mundo y API) |
 | `vip.png` | nombre antiguo del atlas de cards (2048², solo PC). Lo que la API sirve hoy si `cards: true` | Sub/001 |
 | `ad1..ad4.png` | anuncios del club (1024×512); solo los que diga `anuncios` | según la hoja |
