@@ -1,0 +1,6 @@
+{
+  "comunidad": "Club Prueba",
+  "alta": "2026-10-10",
+  "coronas": 5,
+  "_coronas": "coronas/N.png = corona N de la hoja (campo 'banner'), 1024x1024 con margen transparente (dibujo al 55 %). Preparadas para la descarga por corona; hoy el mundo sigue usando banners.png."
+}
