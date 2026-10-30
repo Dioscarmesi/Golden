@@ -19,4 +19,4 @@ En `roles.json`, `banner` 2000+N = `coronas/N.png` (PC 1024²) · `coronas_quest
 
 ## Cartel de Golden
 
-`cartel.png` (PC, hasta 2048 px de lado) y `cartel_quest.png` (Quest, hasta 1024): la imagen base de los quads «cartel» del mapa. Los quads empiezan apagados y se encienden al llegar esta imagen; si se pone un código Partner cuya hoja trae `"cartel": true`, cambian a `Sub/NNN/cartel.png`.
+No está aquí: va **precargado en el mundo** (`!WorldScriptCarmesi/Prefabs/CartelGolden.png`). Los quads «cartel» lo muestran al entrar; si se pone un código Partner cuya hoja trae `"cartel": true`, cambian a `Sub/NNN/cartel.png` (Quest `cartel_quest.png`) que entrega la API.
