@@ -12,6 +12,7 @@ Una carpeta numerada por comunidad (`001`, `002`…). La API (`/p/{código}`) el
 | `cards_pc.png` / `cards_quest.png` | atlas 8×4 de cards: PC 2048², Quest 1024² (como `users_A_pc/quest` de Golden). `card` de la hoja = celda | ⏳ preparado (aún hace falta cambio en mundo y API) |
 | `vip.png` | nombre antiguo del atlas de cards (2048², solo PC). Lo que la API sirve hoy si `cards: true` | Sub/001 |
 | `ad1..ad4.png` | anuncios del club (1024×512); solo los que diga `anuncios` | según la hoja |
+| `cartel.png` / `cartel_quest.png` | imagen del club para los quads «cartel» del mapa (PC hasta 2048 px de lado, Quest hasta 1024); solo si la hoja trae `"cartel": true`. Sustituye a la de Golden cuando Golden ya terminó sus descargas | ⏳ falta subir el mundo |
 
 Alta de una comunidad: carpeta nueva + `hoja.json` + `coronas/` + `coronas_quest/` (+ `cards_pc/quest.png` si trae cards) + línea en `partner-codigos.json`.
 

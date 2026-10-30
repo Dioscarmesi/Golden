@@ -16,3 +16,7 @@ En `roles.json`, `banner` 2000+N = `coronas/N.png` (PC 1024²) · `coronas_quest
 | 2010 | 10 | Cartel de las Doncellas |
 | 2011 | 11 | Cartel de las Doncellas · Maid |
 | 2012 | 12 | Cartel de las Doncellas · Bartender |
+
+## Cartel de Golden
+
+`cartel.png` (PC, hasta 2048 px de lado) y `cartel_quest.png` (Quest, hasta 1024): la imagen base de los quads «cartel» del mapa. Los quads empiezan apagados y se encienden al llegar esta imagen; si se pone un código Partner cuya hoja trae `"cartel": true`, cambian a `Sub/NNN/cartel.png`.
