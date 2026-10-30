@@ -1,0 +1,27 @@
+{
+  "comunidad": "Neuronas AFK",
+  "cards": "golden",
+  "coronas": 1,
+  "anuncios": 0,
+  "_leeme": "Hoja Partner de Neuronas AFK (Sub/005). coronas: 1 Neuronas AFK (grupo de streamers). Sin cards ni anuncios propios. id = nombre visible EXACTO de VRChat (copiado de la lista del Drive; 'usr' para verificarlo).",
+  "users": [
+    {
+      "id": "IlargiaMurasaki",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Neuronas AFK",
+      "usr": "usr_8f31d440-288f-4f25-8db9-c17e770c427b",
+      "group": "Neuronas AFK"
+    },
+    {
+      "id": "RedAion",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Neuronas AFK",
+      "usr": "usr_e9ea0bb0-0f7f-4914-a361-d17fde719b68",
+      "group": "Neuronas AFK"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "comunidad": "Black Diamond",
+  "cards": "golden",
+  "coronas": 6,
+  "anuncios": 0,
+  "_leeme": "Hoja Partner de Black Diamond (Sub/007). coronas: 1 Owner, 2 Co-owner, 3 Staff, 4 Dancer, 5 VIP, 6 General (4-6 sin usuarios). Sin cards ni anuncios propios. id = nombre visible EXACTO de VRChat (copiado de la lista del Drive; 'usr' para verificarlo).",
+  "users": [
+    {
+      "id": "Rey",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de Black Diamond",
+      "usr": "usr_5f20ef54-1a69-4170-9428-79194b7a690d",
+      "group": "Black Diamond"
+    },
+    {
+      "id": "Roni",
+      "rank": "Owner Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Co-owner de Black Diamond",
+      "usr": "usr_9305e7d9-db50-4542-8d68-c3f3fce8e11e",
+      "group": "Black Diamond"
+    },
+    {
+      "id": "Mymiko",
+      "rank": "Owner Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Co-owner de Black Diamond",
+      "usr": "usr_a6b356f1-2e99-4c15-9034-177d7a523117",
+      "group": "Black Diamond"
+    },
+    {
+      "id": "Skay Red",
+      "rank": "Staff Comunidad",
+      "banner": 3,
+      "card": 0,
+      "phrase": "Staff de Black Diamond",
+      "usr": "usr_26a0f70c-7a9f-4020-9c41-1c35ca9e7830",
+      "group": "Black Diamond"
+    }
+  ]
+}

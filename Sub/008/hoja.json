@@ -1,0 +1,169 @@
+{
+  "comunidad": "Cartel de las Doncellas",
+  "cards": "golden",
+  "coronas": 8,
+  "anuncios": 0,
+  "_leeme": "Hoja Partner de Cartel de las Doncellas (Sub/008). coronas: 1 Founder, 2 Owner, 3 Owner Founder, 4 Secretary, 5 Seguridad, 6 Maid/Mayordomo, 7 Bartender, 8 Logo (3, 4 y 8 sin usuarios). Sin cards ni anuncios propios. id = nombre visible EXACTO de VRChat (copiado de la lista del Drive; 'usr' para verificarlo).",
+  "users": [
+    {
+      "id": "Gotti Zero",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Founder del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "L フェラズ [Lawliet]",
+      "rank": "Owner Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Owner del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "Andrew_tattoo",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Mayordomo Elitista del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "RoFu_12",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Maid Tímida del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "Rainunik-",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Maid Dominatrix del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "DemiStrider",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Maid Animatrónico del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "Skylër",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Maid Novata del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "DarkFoxVR",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Maid Vtuber del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "DarkBloomm",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Maid Chibi del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "M0chi404",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Maid Clasista del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "rosanagamer7777",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Maid Distraída del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "~Evangeline୨୧",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Maid Inalcanzable del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "~Ray୨୧",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Mayordomo Shakal del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "JellyଳSweetღ",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Maid Girlfriend del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "maurizzzc",
+      "rank": "Maid",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Maid Moe del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "lilspooky16",
+      "rank": "Staff Comunidad",
+      "banner": 5,
+      "card": 0,
+      "phrase": "Seguridad del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "ElKiayo",
+      "rank": "Staff Comunidad",
+      "banner": 5,
+      "card": 0,
+      "phrase": "Seguridad del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "MujinaR2",
+      "rank": "Staff Comunidad",
+      "banner": 5,
+      "card": 0,
+      "phrase": "Seguridad del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "Raul1218",
+      "rank": "Staff Comunidad",
+      "banner": 5,
+      "card": 0,
+      "phrase": "Seguridad del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    },
+    {
+      "id": "InakoteHD",
+      "rank": "Maid",
+      "banner": 7,
+      "card": 0,
+      "phrase": "Bartender del Cartel de las Doncellas",
+      "group": "Cartel de las Doncellas"
+    }
+  ]
+}

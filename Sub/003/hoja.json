@@ -1,0 +1,99 @@
+{
+  "comunidad": "ELIXIR",
+  "cards": "golden",
+  "coronas": 4,
+  "anuncios": 0,
+  "_leeme": "Hoja Partner de ELIXIR (Sub/003). coronas: 1 Owner, 2 CEO, 3 Staff, 4 Emblema (sin usuarios). Sin cards ni anuncios propios. id = nombre visible EXACTO de VRChat (copiado de la lista del Drive; 'usr' para verificarlo).",
+  "users": [
+    {
+      "id": "Phantom Reizack",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de ELIXIR",
+      "usr": "usr_569b96dc-fb5c-44bd-abaf-c7fb51725959",
+      "group": "ELIXIR"
+    },
+    {
+      "id": "DEVILZOO_",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de ELIXIR",
+      "usr": "usr_0ea0aa36-9735-4789-86b6-f8bd2c55d095",
+      "group": "ELIXIR"
+    },
+    {
+      "id": "poisonliz",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de ELIXIR",
+      "usr": "usr_24801a08-fd3b-42bd-bbe5-e6680e54a9ab",
+      "group": "ELIXIR"
+    },
+    {
+      "id": "๛Ryu๛",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de ELIXIR",
+      "usr": "usr_46b6ee0c-ccbb-482e-b4ce-d58d482b955e",
+      "group": "ELIXIR"
+    },
+    {
+      "id": "Lobo__BBX",
+      "rank": "Owner Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "CEO de ELIXIR",
+      "usr": "usr_a9651935-2341-4ef4-9ddc-87671a8a7c25",
+      "group": "ELIXIR"
+    },
+    {
+      "id": "ºALEXIS---XD-º",
+      "rank": "Owner Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "CEO de ELIXIR",
+      "usr": "usr_96c6139e-d76b-4243-831b-e9090e4673d3",
+      "group": "ELIXIR"
+    },
+    {
+      "id": "Teggy0_0",
+      "rank": "Owner Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "CEO de ELIXIR",
+      "usr": "usr_97e76c38-d30d-464d-9b3e-f6edd9c7945f",
+      "group": "ELIXIR"
+    },
+    {
+      "id": "SM1RK0FF",
+      "rank": "Staff Comunidad",
+      "banner": 3,
+      "card": 0,
+      "phrase": "Staff de ELIXIR",
+      "usr": "usr_7c1b64a7-a27d-4d04-adce-581571d89466",
+      "group": "ELIXIR"
+    },
+    {
+      "id": "SlimeCreature",
+      "rank": "Staff Comunidad",
+      "banner": 3,
+      "card": 0,
+      "phrase": "Staff de ELIXIR",
+      "usr": "usr_82d8f1ea-f9df-4673-b56b-f05c52399312",
+      "group": "ELIXIR"
+    },
+    {
+      "id": "Lettersmood2",
+      "rank": "Staff Comunidad",
+      "banner": 3,
+      "card": 0,
+      "phrase": "Staff de ELIXIR",
+      "usr": "usr_bfd415f3-14e2-426b-8a7d-ba8e3b905358",
+      "group": "ELIXIR"
+    }
+  ]
+}

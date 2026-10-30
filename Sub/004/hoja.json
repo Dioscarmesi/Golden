@@ -1,0 +1,144 @@
+{
+  "comunidad": "Los Funables",
+  "cards": "golden",
+  "coronas": 5,
+  "anuncios": 0,
+  "_leeme": "Hoja Partner de Los Funables (Sub/004). coronas: 1 Owner, 2 Staff, 3 Dancer, 4 VIP (sin usuarios), 5 General (sin usuarios). Sin cards ni anuncios propios. id = nombre visible EXACTO de VRChat (copiado de la lista del Drive; 'usr' para verificarlo).",
+  "users": [
+    {
+      "id": "DilanXM",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de Los Funables",
+      "usr": "usr_1fd555b6-3042-4bcb-a1d1-409a626d7037",
+      "group": "Los Funables"
+    },
+    {
+      "id": "JAVIX17",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de Los Funables",
+      "usr": "usr_e362a303-d3e1-4b27-8f6b-e01baffb306e",
+      "group": "Los Funables"
+    },
+    {
+      "id": "XChannelHueX",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de Los Funables",
+      "usr": "usr_08019e93-b70f-4af0-bf29-dbf1f78f9daf",
+      "group": "Los Funables"
+    },
+    {
+      "id": "Gerardo_-",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de Los Funables",
+      "usr": "usr_a3c8a218-17af-4c1f-98ad-9f6733339ac6",
+      "group": "Los Funables"
+    },
+    {
+      "id": "Osvaldofrk08",
+      "rank": "Staff Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Staff de Los Funables",
+      "usr": "usr_f84fe848-de92-4fc1-ac36-25bf5a1f1802",
+      "group": "Los Funables"
+    },
+    {
+      "id": "Dr_Brandon",
+      "rank": "Staff Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Staff de Los Funables",
+      "usr": "usr_081e1222-760d-48a2-aa3d-586edc158ad5",
+      "group": "Los Funables"
+    },
+    {
+      "id": "venuss_chaan",
+      "rank": "Staff Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Staff de Los Funables",
+      "usr": "usr_2cf77541-b04a-4ec4-8a3b-e21c5eaba3fd",
+      "group": "Los Funables"
+    },
+    {
+      "id": "Najimita",
+      "rank": "Staff Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Staff de Los Funables",
+      "usr": "usr_fc262496-5fd2-4a9c-8e5a-d3f04e3e6afd",
+      "group": "Los Funables"
+    },
+    {
+      "id": "DaysskiKeios",
+      "rank": "Staff Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Staff de Los Funables",
+      "usr": "usr_837d9982-bfe6-4919-b955-b5fe20806060",
+      "group": "Los Funables"
+    },
+    {
+      "id": "Joe",
+      "rank": "Staff Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Staff de Los Funables",
+      "usr": "usr_4056b9aa-25df-42f2-91d9-5c77bcb98210",
+      "group": "Los Funables"
+    },
+    {
+      "id": "AngelMH",
+      "rank": "Dancer",
+      "banner": 3,
+      "card": 0,
+      "phrase": "Dancer de Los Funables",
+      "usr": "usr_aefc7581-bb10-44d4-892e-09a86f66d4e5",
+      "group": "Los Funables"
+    },
+    {
+      "id": "Lamexicana",
+      "rank": "Dancer",
+      "banner": 3,
+      "card": 0,
+      "phrase": "Dancer de Los Funables",
+      "usr": "usr_d89d9a47-edb9-4748-bddf-e64a9d70b725",
+      "group": "Los Funables"
+    },
+    {
+      "id": "JCVARGAS",
+      "rank": "Dancer",
+      "banner": 3,
+      "card": 0,
+      "phrase": "Dancer de Los Funables",
+      "usr": "usr_60c5ccee-6447-4b2c-a785-ff66fbea7ba1",
+      "group": "Los Funables"
+    },
+    {
+      "id": "Kiwiiツ",
+      "rank": "Dancer",
+      "banner": 3,
+      "card": 0,
+      "phrase": "Dancer de Los Funables",
+      "usr": "usr_58b4ecdb-c725-4022-9e9b-968081d6af0f",
+      "group": "Los Funables"
+    },
+    {
+      "id": "Risoo00",
+      "rank": "Dancer",
+      "banner": 3,
+      "card": 0,
+      "phrase": "Dancer de Los Funables",
+      "usr": "usr_878dda08-611f-4129-b7a0-defcba9b1023",
+      "group": "Los Funables"
+    }
+  ]
+}
