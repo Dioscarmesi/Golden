@@ -3,6 +3,7 @@
   "cards": "golden",
   "coronas": 5,
   "anuncios": 0,
+  "cartel": true,
   "_leeme": "Hoja Partner de Los Funables (Sub/004). coronas: 1 Owner, 2 Staff, 3 Dancer, 4 VIP (sin usuarios), 5 General (sin usuarios). Sin cards ni anuncios propios. id = nombre visible EXACTO de VRChat (copiado de la lista del Drive; 'usr' para verificarlo).",
   "users": [
     {

@@ -3,6 +3,7 @@
   "cards": "golden",
   "coronas": 4,
   "anuncios": 0,
+  "cartel": true,
   "_leeme": "Hoja Partner de ELIXIR (Sub/003). coronas: 1 Owner, 2 CEO, 3 Staff, 4 Emblema (sin usuarios). Sin cards ni anuncios propios. id = nombre visible EXACTO de VRChat (copiado de la lista del Drive; 'usr' para verificarlo).",
   "users": [
     {

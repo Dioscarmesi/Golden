@@ -3,6 +3,7 @@
   "cards": "golden",
   "coronas": 8,
   "anuncios": 0,
+  "cartel": true,
   "_leeme": "Hoja Partner de Cartel de las Doncellas (Sub/008). coronas: 1 Founder, 2 Owner, 3 Owner Founder, 4 Secretary, 5 Seguridad, 6 Maid/Mayordomo, 7 Bartender, 8 Logo (3, 4 y 8 sin usuarios). Sin cards ni anuncios propios. id = nombre visible EXACTO de VRChat (copiado de la lista del Drive; 'usr' para verificarlo).",
   "users": [
     {
