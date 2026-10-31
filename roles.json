@@ -108,11 +108,12 @@
     { "nombre": "Golden", "id": "grp_561a3152-7384-48d3-9696-e44a0531f6ba", "desc": "El grupo oficial de Golden", "desc_en": "Golden's official group" },
     { "nombre": "The King Club", "id": "grp_f9c75c1e-6847-4728-a0c6-8ddffbd684a0", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
     { "nombre": "ELIXIR", "id": "grp_be63e6de-1c8f-4b26-8dec-2933750b8853", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
-    { "nombre": "Los Funables", "id": "", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
-    { "nombre": "Neuronas AFK", "id": "", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
+    { "nombre": "Los Funables", "id": "grp_a7927593-78e3-4a76-b688-9c3a5751c818", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
+    { "nombre": "Neuronas AFK", "id": "grp_7bee6efe-3e50-4c2a-9aad-0d57fb253052", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
     { "nombre": "YING&ZING", "id": "grp_6defec52-a510-473a-9daf-470c00554ae5", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
     { "nombre": "Cartel Black Diamond", "id": "grp_f4e73044-de35-4346-946c-5afaaad3d000", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
     { "nombre": "Cartel de las Doncellas", "id": "grp_55d0c3b7-8f6f-4a83-bba0-fb7ff1ecdb65", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
-    { "nombre": "R-Corporations", "id": "grp_4f24b291-4964-4807-8c58-9ddcd33a627a", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" }
+    { "nombre": "R-Corporations", "id": "grp_4f24b291-4964-4807-8c58-9ddcd33a627a", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
+    { "nombre": "Chiliblue Cafe", "id": "grp_65ac38e3-43d3-45ae-bdff-c48fabb577c6", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" }
   ]
 }
