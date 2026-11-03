@@ -8,7 +8,7 @@
     { "id": "Yutaura", "rank": "Staff", "banner": 1005, "card": 6 },
     { "id": "Lewanygg", "rank": "Maid", "banner": 1007, "card": 7 },
     { "id": "Akihide", "rank": "VIP", "banner": 1006, "card": 8 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 9 },
+    { "id": "CAROL_RM", "rank": "Staff", "banner": 1005, "card": 9 },
     { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 10 },
     { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 11 },
     { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 12 },
@@ -105,15 +105,15 @@
     "brightness": 1
   },
   "grupos": [
-    { "nombre": "Golden", "id": "grp_561a3152-7384-48d3-9696-e44a0531f6ba", "desc": "El grupo oficial de Golden", "desc_en": "Golden's official group" },
-    { "nombre": "The Kings Club", "id": "grp_f9c75c1e-6847-4728-a0c6-8ddffbd684a0", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
-    { "nombre": "ELIXIR", "id": "grp_be63e6de-1c8f-4b26-8dec-2933750b8853", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
-    { "nombre": "Los Funables", "id": "grp_a7927593-78e3-4a76-b688-9c3a5751c818", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
-    { "nombre": "Neuronas AFK", "id": "grp_7bee6efe-3e50-4c2a-9aad-0d57fb253052", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
-    { "nombre": "YingAndZing", "id": "grp_6defec52-a510-473a-9daf-470c00554ae5", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
-    { "nombre": "Cartel Black Diamond", "id": "grp_f4e73044-de35-4346-946c-5afaaad3d000", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
-    { "nombre": "Cartel de las Doncellas", "id": "grp_55d0c3b7-8f6f-4a83-bba0-fb7ff1ecdb65", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
-    { "nombre": "R Companion", "id": "grp_4f24b291-4964-4807-8c58-9ddcd33a627a", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" },
-    { "nombre": "Chiliblue Cafe", "id": "grp_65ac38e3-43d3-45ae-bdff-c48fabb577c6", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community" }
+    { "nombre": "Golden", "desc": "El grupo oficial de Golden", "desc_en": "Golden's official group", "id": "grp_561a3152-7384-48d3-9696-e44a0531f6ba" },
+    { "nombre": "The Kings Club", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_f9c75c1e-6847-4728-a0c6-8ddffbd684a0" },
+    { "nombre": "ELIXIR", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_be63e6de-1c8f-4b26-8dec-2933750b8853" },
+    { "nombre": "Los Funables", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_a7927593-78e3-4a76-b688-9c3a5751c818" },
+    { "nombre": "Neuronas AFK", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_7bee6efe-3e50-4c2a-9aad-0d57fb253052" },
+    { "nombre": "YingAndZing", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_6defec52-a510-473a-9daf-470c00554ae5" },
+    { "nombre": "Cartel Black Diamond", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_f4e73044-de35-4346-946c-5afaaad3d000" },
+    { "nombre": "Cartel de las Doncellas", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_55d0c3b7-8f6f-4a83-bba0-fb7ff1ecdb65" },
+    { "nombre": "R Companion", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_4f24b291-4964-4807-8c58-9ddcd33a627a" },
+    { "nombre": "Chiliblue Cafe", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_65ac38e3-43d3-45ae-bdff-c48fabb577c6" }
   ]
 }
