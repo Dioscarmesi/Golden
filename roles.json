@@ -1,92 +1,1022 @@
 {
   "users": [
-    { "id": "King Karmen", "rank": "Owner", "banner": 0, "card": 1 },
-    { "id": "Demon kuma", "rank": "Staff", "banner": 1005, "card": 2 },
-    { "id": "yamiyamero", "rank": "Owner", "banner": 1004, "card": 3 },
-    { "id": "Strikkerz'", "rank": "Staff", "banner": 1005, "card": 4 },
-    { "id": "Akzara", "rank": "Staff", "banner": 1005, "card": 5 },
-    { "id": "Yutaura", "rank": "Staff", "banner": 1005, "card": 6 },
-    { "id": "Lewanygg", "rank": "Maid", "banner": 1007, "card": 7 },
-    { "id": "Akihide", "rank": "VIP", "banner": 1006, "card": 8 },
-    { "id": "CAROL_RM", "rank": "Staff", "banner": 1005, "card": 9 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 10 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 11 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 12 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 13 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 14 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 15 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 16 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 17 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 18 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 19 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 20 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 21 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 22 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 23 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 24 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 25 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 26 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 27 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 28 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 29 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 30 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 31 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 32 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 33 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 34 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 35 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 36 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 37 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 38 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 39 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 40 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 41 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 42 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 43 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 44 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 45 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 46 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 47 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 48 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 49 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 50 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 51 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 52 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 53 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 54 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 55 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 56 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 57 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 58 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 59 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1002, "card": 60 },
-    { "id": "Disponible", "rank": "DJ", "banner": 1003, "card": 61 },
-    { "id": "Disponible", "rank": "Staff", "banner": 1005, "card": 62 },
-    { "id": "Disponible", "rank": "VIP", "banner": 1006, "card": 63 },
-    { "id": "Disponible", "rank": "Dancer", "banner": 1001, "card": 64 },
-    { "id": "KirikuVT", "rank": "Maid", "banner": 1007 },
-    { "id": "ondera", "rank": "Maid", "banner": 1007 },
-    { "id": "Oaken Murasaki", "rank": "Maid", "banner": 1007 },
-    { "id": "HiumeOwO", "rank": "Maid", "banner": 1007 },
-    { "id": "TsunaXFire", "rank": "Maid", "banner": 1007 },
-    { "id": "faniasas", "rank": "Maid", "banner": 1007 },
-    { "id": "Eunhayeen", "rank": "Maid", "banner": 1007 },
-    { "id": "RoxyCherry0", "rank": "Maid", "banner": 1007 },
-    { "id": "Clover_Luckyman", "rank": "Maid", "banner": 1007 },
-    { "id": "katypelayo", "rank": "Maid", "banner": 1007 },
-    { "id": "WithushaPWT", "rank": "Maid", "banner": 1007 },
-    { "id": "dakureon", "rank": "Maid", "banner": 1007 },
-    { "id": "ESTRELLA2543", "rank": "Maid", "banner": 1007 }
+    {
+      "id": "King Karmen",
+      "rank": "Owner",
+      "banner": 0,
+      "card": 1
+    },
+    {
+      "id": "Demon kuma",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 2
+    },
+    {
+      "id": "yamiyamero",
+      "rank": "Owner",
+      "banner": 1004,
+      "card": 3
+    },
+    {
+      "id": "Strikkerz'",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 4
+    },
+    {
+      "id": "Akzara",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 5
+    },
+    {
+      "id": "Yutaura",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 6
+    },
+    {
+      "id": "Lewanygg",
+      "rank": "Maid",
+      "banner": 1007,
+      "card": 7
+    },
+    {
+      "id": "Akihide",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 8
+    },
+    {
+      "id": "CAROL_RM",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 9
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1002,
+      "card": 10
+    },
+    {
+      "id": "Disponible",
+      "rank": "DJ",
+      "banner": 1003,
+      "card": 11
+    },
+    {
+      "id": "Disponible",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 12
+    },
+    {
+      "id": "Disponible",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 13
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1001,
+      "card": 14
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1002,
+      "card": 15
+    },
+    {
+      "id": "Disponible",
+      "rank": "DJ",
+      "banner": 1003,
+      "card": 16
+    },
+    {
+      "id": "Disponible",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 17
+    },
+    {
+      "id": "Disponible",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 18
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1001,
+      "card": 19
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1002,
+      "card": 20
+    },
+    {
+      "id": "Disponible",
+      "rank": "DJ",
+      "banner": 1003,
+      "card": 21
+    },
+    {
+      "id": "Disponible",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 22
+    },
+    {
+      "id": "Disponible",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 23
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1001,
+      "card": 24
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1002,
+      "card": 25
+    },
+    {
+      "id": "Disponible",
+      "rank": "DJ",
+      "banner": 1003,
+      "card": 26
+    },
+    {
+      "id": "Disponible",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 27
+    },
+    {
+      "id": "Disponible",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 28
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1001,
+      "card": 29
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1002,
+      "card": 30
+    },
+    {
+      "id": "Disponible",
+      "rank": "DJ",
+      "banner": 1003,
+      "card": 31
+    },
+    {
+      "id": "Disponible",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 32
+    },
+    {
+      "id": "Disponible",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 33
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1001,
+      "card": 34
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1002,
+      "card": 35
+    },
+    {
+      "id": "Disponible",
+      "rank": "DJ",
+      "banner": 1003,
+      "card": 36
+    },
+    {
+      "id": "Disponible",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 37
+    },
+    {
+      "id": "Disponible",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 38
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1001,
+      "card": 39
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1002,
+      "card": 40
+    },
+    {
+      "id": "Disponible",
+      "rank": "DJ",
+      "banner": 1003,
+      "card": 41
+    },
+    {
+      "id": "Disponible",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 42
+    },
+    {
+      "id": "Disponible",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 43
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1001,
+      "card": 44
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1002,
+      "card": 45
+    },
+    {
+      "id": "Disponible",
+      "rank": "DJ",
+      "banner": 1003,
+      "card": 46
+    },
+    {
+      "id": "Disponible",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 47
+    },
+    {
+      "id": "Disponible",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 48
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1001,
+      "card": 49
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1002,
+      "card": 50
+    },
+    {
+      "id": "Disponible",
+      "rank": "DJ",
+      "banner": 1003,
+      "card": 51
+    },
+    {
+      "id": "Disponible",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 52
+    },
+    {
+      "id": "Disponible",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 53
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1001,
+      "card": 54
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1002,
+      "card": 55
+    },
+    {
+      "id": "Disponible",
+      "rank": "DJ",
+      "banner": 1003,
+      "card": 56
+    },
+    {
+      "id": "Disponible",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 57
+    },
+    {
+      "id": "Disponible",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 58
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1001,
+      "card": 59
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1002,
+      "card": 60
+    },
+    {
+      "id": "Disponible",
+      "rank": "DJ",
+      "banner": 1003,
+      "card": 61
+    },
+    {
+      "id": "Disponible",
+      "rank": "Staff",
+      "banner": 1005,
+      "card": 62
+    },
+    {
+      "id": "Disponible",
+      "rank": "VIP",
+      "banner": 1006,
+      "card": 63
+    },
+    {
+      "id": "Disponible",
+      "rank": "Dancer",
+      "banner": 1001,
+      "card": 64
+    },
+    {
+      "id": "KirikuVT",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "ondera",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "Oaken Murasaki",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "HiumeOwO",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "TsunaXFire",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "faniasas",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "Eunhayeen",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "RoxyCherry0",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "Clover_Luckyman",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "katypelayo",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "WithushaPWT",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "dakureon",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "ESTRELLA2543",
+      "rank": "Maid",
+      "banner": 1007
+    },
+    {
+      "id": "__ABY__",
+      "rank": "VIP",
+      "banner": 2001,
+      "card": 0
+    },
+    {
+      "id": "Milunae",
+      "rank": "VIP",
+      "banner": 2001,
+      "card": 0
+    },
+    {
+      "id": "乙ㄚ尺乇乂",
+      "rank": "VIP",
+      "banner": 2001,
+      "card": 0
+    },
+    {
+      "id": "CloverPD-",
+      "rank": "VIP",
+      "banner": 2001,
+      "card": 0
+    },
+    {
+      "id": "Crzzz04",
+      "rank": "VIP",
+      "banner": 2001,
+      "card": 0
+    },
+    {
+      "id": "Luen 信",
+      "rank": "VIP",
+      "banner": 2001,
+      "card": 0
+    },
+    {
+      "id": "traumaz",
+      "rank": "VIP",
+      "banner": 2001,
+      "card": 0
+    },
+    {
+      "id": "Likelyz",
+      "rank": "VIP",
+      "banner": 2001,
+      "card": 0
+    },
+    {
+      "id": "Daniuwu07",
+      "rank": "VIP",
+      "banner": 2001,
+      "card": 0
+    },
+    {
+      "id": "xXSTAR-LIGHTXx",
+      "rank": "VIP",
+      "banner": 2002,
+      "card": 0
+    },
+    {
+      "id": "adri_rxd",
+      "rank": "VIP",
+      "banner": 2003,
+      "card": 0
+    },
+    {
+      "id": "ᴀᴋɪɪ ®",
+      "rank": "VIP",
+      "banner": 2003,
+      "card": 0
+    },
+    {
+      "id": "GoTica․Nyan",
+      "rank": "VIP",
+      "banner": 2003,
+      "card": 0
+    },
+    {
+      "id": "~Naoya~",
+      "rank": "VIP",
+      "banner": 2003,
+      "card": 0
+    },
+    {
+      "id": "Violet Himiko",
+      "rank": "VIP",
+      "banner": 2003,
+      "card": 0
+    },
+    {
+      "id": "Inalca©",
+      "rank": "VIP",
+      "banner": 2003,
+      "card": 0
+    },
+    {
+      "id": "Phantom Reizack",
+      "rank": "VIP",
+      "banner": 2004,
+      "card": 0
+    },
+    {
+      "id": "DEVILZOO_",
+      "rank": "VIP",
+      "banner": 2004,
+      "card": 0
+    },
+    {
+      "id": "poisonliz",
+      "rank": "VIP",
+      "banner": 2004,
+      "card": 0
+    },
+    {
+      "id": "๛Ryu๛",
+      "rank": "VIP",
+      "banner": 2004,
+      "card": 0
+    },
+    {
+      "id": "Lobo__BBX",
+      "rank": "VIP",
+      "banner": 2004,
+      "card": 0
+    },
+    {
+      "id": "ºALEXIS---XD-º",
+      "rank": "VIP",
+      "banner": 2004,
+      "card": 0
+    },
+    {
+      "id": "Teggy0_0",
+      "rank": "VIP",
+      "banner": 2004,
+      "card": 0
+    },
+    {
+      "id": "SM1RK0FF",
+      "rank": "VIP",
+      "banner": 2004,
+      "card": 0
+    },
+    {
+      "id": "SlimeCreature",
+      "rank": "VIP",
+      "banner": 2004,
+      "card": 0
+    },
+    {
+      "id": "Lettersmood2",
+      "rank": "VIP",
+      "banner": 2004,
+      "card": 0
+    },
+    {
+      "id": "DilanXM",
+      "rank": "VIP",
+      "banner": 2005,
+      "card": 0
+    },
+    {
+      "id": "JAVIX17",
+      "rank": "VIP",
+      "banner": 2005,
+      "card": 0
+    },
+    {
+      "id": "XChannelHueX",
+      "rank": "VIP",
+      "banner": 2005,
+      "card": 0
+    },
+    {
+      "id": "Gerardo_-",
+      "rank": "VIP",
+      "banner": 2005,
+      "card": 0
+    },
+    {
+      "id": "Osvaldofrk08",
+      "rank": "VIP",
+      "banner": 2005,
+      "card": 0
+    },
+    {
+      "id": "Dr_Brandon",
+      "rank": "VIP",
+      "banner": 2005,
+      "card": 0
+    },
+    {
+      "id": "venuss_chaan",
+      "rank": "VIP",
+      "banner": 2005,
+      "card": 0
+    },
+    {
+      "id": "Najimita",
+      "rank": "VIP",
+      "banner": 2005,
+      "card": 0
+    },
+    {
+      "id": "DaysskiKeios",
+      "rank": "VIP",
+      "banner": 2005,
+      "card": 0
+    },
+    {
+      "id": "Joe",
+      "rank": "VIP",
+      "banner": 2005,
+      "card": 0
+    },
+    {
+      "id": "AngelMH",
+      "rank": "VIP",
+      "banner": 2006,
+      "card": 0
+    },
+    {
+      "id": "Lamexicana",
+      "rank": "VIP",
+      "banner": 2006,
+      "card": 0
+    },
+    {
+      "id": "JCVARGAS",
+      "rank": "VIP",
+      "banner": 2006,
+      "card": 0
+    },
+    {
+      "id": "Kiwiiツ",
+      "rank": "VIP",
+      "banner": 2006,
+      "card": 0
+    },
+    {
+      "id": "Risoo00",
+      "rank": "VIP",
+      "banner": 2006,
+      "card": 0
+    },
+    {
+      "id": "IlargiaMurasaki",
+      "rank": "VIP",
+      "banner": 2007,
+      "card": 0
+    },
+    {
+      "id": "RedAion",
+      "rank": "VIP",
+      "banner": 2007,
+      "card": 0
+    },
+    {
+      "id": "Rey",
+      "rank": "VIP",
+      "banner": 2009,
+      "card": 0
+    },
+    {
+      "id": "Roni",
+      "rank": "VIP",
+      "banner": 2009,
+      "card": 0
+    },
+    {
+      "id": "Mymiko",
+      "rank": "VIP",
+      "banner": 2009,
+      "card": 0
+    },
+    {
+      "id": "Skay Red",
+      "rank": "VIP",
+      "banner": 2009,
+      "card": 0
+    },
+    {
+      "id": "Gotti Zero",
+      "rank": "VIP",
+      "banner": 2010,
+      "card": 0
+    },
+    {
+      "id": "L フェラズ [Lawliet]",
+      "rank": "VIP",
+      "banner": 2010,
+      "card": 0
+    },
+    {
+      "id": "Andrew_tattoo",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "RoFu_12",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "Rainunik-",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "DemiStrider",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "Skylër",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "DarkFoxVR",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "DarkBloomm",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "M0chi404",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "rosanagamer7777",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "~Evangeline୨୧",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "~Ray୨୧",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "JellyଳSweetღ",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "maurizzzc",
+      "rank": "VIP",
+      "banner": 2011,
+      "card": 0
+    },
+    {
+      "id": "lilspooky16",
+      "rank": "VIP",
+      "banner": 2010,
+      "card": 0
+    },
+    {
+      "id": "ElKiayo",
+      "rank": "VIP",
+      "banner": 2010,
+      "card": 0
+    },
+    {
+      "id": "MujinaR2",
+      "rank": "VIP",
+      "banner": 2010,
+      "card": 0
+    },
+    {
+      "id": "Raul1218",
+      "rank": "VIP",
+      "banner": 2010,
+      "card": 0
+    },
+    {
+      "id": "InakoteHD",
+      "rank": "VIP",
+      "banner": 2012,
+      "card": 0
+    },
+    {
+      "id": "SR_Raziel",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "Dɪᴇ Aɴᴏɴʏᴍɪᴛᴀ̈ᴛ",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "M4rco303",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "MultiPersonas",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "Haltura XΞ",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "kaffi",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "Virago",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "WontedAuraX",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "Arzen12",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "--carper--",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "-darling-sun-",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "SoyPunky",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "Noimosyni",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "~×LadyAna×~",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "Shen yue",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "Angi030",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "Elasada",
+      "rank": "VIP",
+      "banner": 0,
+      "card": 0
+    },
+    {
+      "id": "orochigamerlol",
+      "rank": "VIP",
+      "banner": 2013,
+      "card": 0
+    },
+    {
+      "id": "Lalucia",
+      "rank": "VIP",
+      "banner": 2013,
+      "card": 0
+    },
+    {
+      "id": "Cazadora UwU",
+      "rank": "VIP",
+      "banner": 2013,
+      "card": 0
+    },
+    {
+      "id": "Xenovix46",
+      "rank": "VIP",
+      "banner": 2013,
+      "card": 0
+    },
+    {
+      "id": "avoid-me6666",
+      "rank": "VIP",
+      "banner": 2013,
+      "card": 0
+    }
   ],
   "ads": [
-    { "cell": 1, "phrase": "Maid Café · Atención con estilo" },
-    { "cell": 2, "phrase": "Heladería · Helados artesanales" },
-    { "cell": 3, "phrase": "Booze Blender · Cócteles de autor" },
-    { "cell": 4, "phrase": "Salón de Gala · Una noche para recordar" },
-    { "cell": 5, "phrase": "Serifpresso · Espresso, Latte, Mocha" },
-    { "cell": 6, "phrase": "Aguas de sabor · Siempre bien frías" },
-    { "cell": 7, "phrase": "Cine Golden · Funciones todas las noches" },
-    { "cell": 8, "phrase": "Únete al equipo · Sé Maid" }
+    {
+      "cell": 1,
+      "phrase": "Maid Café · Atención con estilo"
+    },
+    {
+      "cell": 2,
+      "phrase": "Heladería · Helados artesanales"
+    },
+    {
+      "cell": 3,
+      "phrase": "Booze Blender · Cócteles de autor"
+    },
+    {
+      "cell": 4,
+      "phrase": "Salón de Gala · Una noche para recordar"
+    },
+    {
+      "cell": 5,
+      "phrase": "Serifpresso · Espresso, Latte, Mocha"
+    },
+    {
+      "cell": 6,
+      "phrase": "Aguas de sabor · Siempre bien frías"
+    },
+    {
+      "cell": 7,
+      "phrase": "Cine Golden · Funciones todas las noches"
+    },
+    {
+      "cell": 8,
+      "phrase": "Únete al equipo · Sé Maid"
+    }
   ],
   "adsSetup": {
     "hold": 15,
@@ -99,21 +1029,75 @@
     "waveAmp": 0.08,
     "waveSoft": 0.03,
     "distort": 0.025,
-    "edgeColor": [255, 204, 89],
+    "edgeColor": [
+      255,
+      204,
+      89
+    ],
     "edgeIntensity": 1.5,
     "edgeWidth": 0.04,
     "brightness": 1
   },
   "grupos": [
-    { "nombre": "Golden", "desc": "El grupo oficial de Golden", "desc_en": "Golden's official group", "id": "grp_561a3152-7384-48d3-9696-e44a0531f6ba" },
-    { "nombre": "The Kings Club", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_f9c75c1e-6847-4728-a0c6-8ddffbd684a0" },
-    { "nombre": "ELIXIR", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_be63e6de-1c8f-4b26-8dec-2933750b8853" },
-    { "nombre": "Los Funables", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_a7927593-78e3-4a76-b688-9c3a5751c818" },
-    { "nombre": "Neuronas AFK", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_7bee6efe-3e50-4c2a-9aad-0d57fb253052" },
-    { "nombre": "YingAndZing", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_6defec52-a510-473a-9daf-470c00554ae5" },
-    { "nombre": "Cartel Black Diamond", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_f4e73044-de35-4346-946c-5afaaad3d000" },
-    { "nombre": "Cartel de las Doncellas", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_55d0c3b7-8f6f-4a83-bba0-fb7ff1ecdb65" },
-    { "nombre": "R Companion", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_4f24b291-4964-4807-8c58-9ddcd33a627a" },
-    { "nombre": "Chiliblue Cafe", "desc": "Comunidad partner de Golden", "desc_en": "Golden partner community", "id": "grp_65ac38e3-43d3-45ae-bdff-c48fabb577c6" }
+    {
+      "nombre": "Golden",
+      "desc": "El grupo oficial de Golden",
+      "desc_en": "Golden's official group",
+      "id": "grp_561a3152-7384-48d3-9696-e44a0531f6ba"
+    },
+    {
+      "nombre": "The Kings Club",
+      "desc": "Comunidad partner de Golden",
+      "desc_en": "Golden partner community",
+      "id": "grp_f9c75c1e-6847-4728-a0c6-8ddffbd684a0"
+    },
+    {
+      "nombre": "ELIXIR",
+      "desc": "Comunidad partner de Golden",
+      "desc_en": "Golden partner community",
+      "id": "grp_be63e6de-1c8f-4b26-8dec-2933750b8853"
+    },
+    {
+      "nombre": "Los Funables",
+      "desc": "Comunidad partner de Golden",
+      "desc_en": "Golden partner community",
+      "id": "grp_a7927593-78e3-4a76-b688-9c3a5751c818"
+    },
+    {
+      "nombre": "Neuronas AFK",
+      "desc": "Comunidad partner de Golden",
+      "desc_en": "Golden partner community",
+      "id": "grp_7bee6efe-3e50-4c2a-9aad-0d57fb253052"
+    },
+    {
+      "nombre": "YingAndZing",
+      "desc": "Comunidad partner de Golden",
+      "desc_en": "Golden partner community",
+      "id": "grp_6defec52-a510-473a-9daf-470c00554ae5"
+    },
+    {
+      "nombre": "Cartel Black Diamond",
+      "desc": "Comunidad partner de Golden",
+      "desc_en": "Golden partner community",
+      "id": "grp_f4e73044-de35-4346-946c-5afaaad3d000"
+    },
+    {
+      "nombre": "Cartel de las Doncellas",
+      "desc": "Comunidad partner de Golden",
+      "desc_en": "Golden partner community",
+      "id": "grp_55d0c3b7-8f6f-4a83-bba0-fb7ff1ecdb65"
+    },
+    {
+      "nombre": "R Companion",
+      "desc": "Comunidad partner de Golden",
+      "desc_en": "Golden partner community",
+      "id": "grp_4f24b291-4964-4807-8c58-9ddcd33a627a"
+    },
+    {
+      "nombre": "Chiliblue Cafe",
+      "desc": "Comunidad partner de Golden",
+      "desc_en": "Golden partner community",
+      "id": "grp_65ac38e3-43d3-45ae-bdff-c48fabb577c6"
+    }
   ]
 }
