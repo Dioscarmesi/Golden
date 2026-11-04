@@ -450,102 +450,6 @@
       "banner": 1007
     },
     {
-      "id": "__ABY__",
-      "rank": "VIP",
-      "banner": 2001,
-      "card": 0
-    },
-    {
-      "id": "Milunae",
-      "rank": "VIP",
-      "banner": 2001,
-      "card": 0
-    },
-    {
-      "id": "乙ㄚ尺乇乂",
-      "rank": "VIP",
-      "banner": 2001,
-      "card": 0
-    },
-    {
-      "id": "CloverPD-",
-      "rank": "VIP",
-      "banner": 2001,
-      "card": 0
-    },
-    {
-      "id": "Crzzz04",
-      "rank": "VIP",
-      "banner": 2001,
-      "card": 0
-    },
-    {
-      "id": "Luen 信",
-      "rank": "VIP",
-      "banner": 2001,
-      "card": 0
-    },
-    {
-      "id": "traumaz",
-      "rank": "VIP",
-      "banner": 2001,
-      "card": 0
-    },
-    {
-      "id": "Likelyz",
-      "rank": "VIP",
-      "banner": 2001,
-      "card": 0
-    },
-    {
-      "id": "Daniuwu07",
-      "rank": "VIP",
-      "banner": 2001,
-      "card": 0
-    },
-    {
-      "id": "xXSTAR-LIGHTXx",
-      "rank": "Dancer",
-      "banner": 2002,
-      "card": 0
-    },
-    {
-      "id": "adri_rxd",
-      "rank": "Dancer",
-      "banner": 2003,
-      "card": 0
-    },
-    {
-      "id": "ᴀᴋɪɪ ®",
-      "rank": "Dancer",
-      "banner": 2003,
-      "card": 0
-    },
-    {
-      "id": "GoTica․Nyan",
-      "rank": "Dancer",
-      "banner": 2003,
-      "card": 0
-    },
-    {
-      "id": "~Naoya~",
-      "rank": "Dancer",
-      "banner": 2003,
-      "card": 0
-    },
-    {
-      "id": "Violet Himiko",
-      "rank": "Dancer",
-      "banner": 2003,
-      "card": 0
-    },
-    {
-      "id": "Inalca©",
-      "rank": "Dancer",
-      "banner": 2003,
-      "card": 0
-    },
-    {
       "id": "Phantom Reizack",
       "rank": "VIP",
       "banner": 2004,
@@ -1044,12 +948,6 @@
       "desc": "El grupo oficial de Golden",
       "desc_en": "Golden's official group",
       "id": "grp_561a3152-7384-48d3-9696-e44a0531f6ba"
-    },
-    {
-      "nombre": "The Kings Club",
-      "desc": "Comunidad partner de Golden",
-      "desc_en": "Golden partner community",
-      "id": "grp_f9c75c1e-6847-4728-a0c6-8ddffbd684a0"
     },
     {
       "nombre": "ELIXIR",
