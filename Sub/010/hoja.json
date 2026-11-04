@@ -1,0 +1,50 @@
+{
+  "comunidad": "Cinerosa",
+  "cards": "golden",
+  "coronas": 1,
+  "anuncios": 0,
+  "cartel": true,
+  "_leeme": "Hoja Partner de Cinerosa (Sub/010). corona 1 = logo de Cinerosa (todos). cartel = mismo logo. Sin cards ni anuncios propios. id = nombre visible EXACTO de VRChat (dado por Carmesi 2026-11-03, sin verificar).",
+  "users": [
+    {
+      "id": "orochigamerlol",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de Cinerosa",
+      "group": "Cinerosa"
+    },
+    {
+      "id": "Lalucia",
+      "rank": "Staff Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Staff de Cinerosa",
+      "group": "Cinerosa"
+    },
+    {
+      "id": "Cazadora UwU",
+      "rank": "Staff Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Staff de Cinerosa",
+      "group": "Cinerosa"
+    },
+    {
+      "id": "Xenovix46",
+      "rank": "Staff Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Guardia de Cinerosa",
+      "group": "Cinerosa"
+    },
+    {
+      "id": "avoid-me6666",
+      "rank": "Staff Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Seguridad de Cinerosa",
+      "group": "Cinerosa"
+    }
+  ]
+}
