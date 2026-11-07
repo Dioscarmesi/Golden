@@ -20,6 +20,10 @@ En `roles.json`, `banner` 2000+N = `coronas/N.png` (PC 1024²) · `coronas_quest
 | 2014 | 14 | Bunny Elite |
 | 2015 | 15 | Fantasy Talents |
 | 2016 | 16 | Be Mine |
+| 2017 | 17 | Be Mine · Owner |
+| 2018 | 18 | Be Mine · Dancer |
+| 2019 | 19 | Be Mine · Staff |
+| 2020 | 20 | Be Mine · Designer |
 
 ## Cartel de Golden
 
