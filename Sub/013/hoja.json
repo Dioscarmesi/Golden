@@ -1,64 +1,64 @@
 {
   "comunidad": "Be Mine",
-  "cards": "juntas",
-  "coronas": 1,
+  "cards": "golden",
+  "coronas": 5,
   "anuncios": 0,
   "cartel": true,
-  "_leeme": "Hoja Partner de Be Mine (Sub/013). corona 1 = logo «Be Mine» (todos). cartel = mismo logo. cards: \"juntas\" = 4 cards por cargo (1 Owner, 2 Dancer, 3 Staff, 4 Designer; cards_pc 2048² / cards_quest 1024², 8x4) sumadas a las de Golden. Designer va como Staff Comunidad. Sin anuncios propios. id = nombre visible EXACTO de VRChat (dado por Carmesi 2026-11-07, sin verificar; fatal_ghost lleva el punto raro U+2024 tal cual).",
+  "_leeme": "Hoja Partner de Be Mine (Sub/013). coronas: 1 Owner, 2 Dancer, 3 Staff, 4 Designer, 5 Logo (5 sin usuarios). cartel = logo «Be Mine». Designer va como Staff Comunidad. Sin cards ni anuncios propios. id = nombre visible EXACTO de VRChat (dado por Carmesi 2026-11-07, sin verificar; fatal_ghost lleva el punto raro U+2024 tal cual).",
   "users": [
     {
       "id": "XiguDJ",
       "rank": "Owner Comunidad",
       "banner": 1,
-      "card": 1,
+      "card": 0,
       "phrase": "Owner de Be Mine",
       "group": "Be Mine"
     },
     {
       "id": "xmax04x",
       "rank": "Dancer",
-      "banner": 1,
-      "card": 2,
+      "banner": 2,
+      "card": 0,
       "phrase": "Dancer de Be Mine",
       "group": "Be Mine"
     },
     {
       "id": "fatal_ghost․vrc",
       "rank": "Dancer",
-      "banner": 1,
-      "card": 2,
+      "banner": 2,
+      "card": 0,
       "phrase": "Dancer de Be Mine",
       "group": "Be Mine"
     },
     {
       "id": "Ailith~",
       "rank": "Staff Comunidad",
-      "banner": 1,
-      "card": 3,
+      "banner": 3,
+      "card": 0,
       "phrase": "Staff de Be Mine",
       "group": "Be Mine"
     },
     {
       "id": "Shanonlia",
       "rank": "Staff Comunidad",
-      "banner": 1,
-      "card": 3,
+      "banner": 3,
+      "card": 0,
       "phrase": "Staff de Be Mine",
       "group": "Be Mine"
     },
     {
       "id": "ɮʊʟʟӄǟʏֆ",
       "rank": "Staff Comunidad",
-      "banner": 1,
-      "card": 3,
+      "banner": 3,
+      "card": 0,
       "phrase": "Staff de Be Mine",
       "group": "Be Mine"
     },
     {
       "id": "Dipemol",
       "rank": "Staff Comunidad",
-      "banner": 1,
-      "card": 4,
+      "banner": 4,
+      "card": 0,
       "phrase": "Designer de Be Mine",
       "group": "Be Mine"
     }
