@@ -19,6 +19,7 @@ En `roles.json`, `banner` 2000+N = `coronas/N.png` (PC 1024²) · `coronas_quest
 | 2013 | 13 | Cinerosa |
 | 2014 | 14 | Bunny Elite |
 | 2015 | 15 | Fantasy Talents |
+| 2016 | 16 | Be Mine |
 
 ## Cartel de Golden
 
