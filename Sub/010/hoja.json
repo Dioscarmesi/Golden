@@ -53,6 +53,22 @@
       "card": 0,
       "phrase": "Staff de Cinerosa",
       "group": "Cinerosa"
+    },
+    {
+      "id": "․Nugetsu",
+      "rank": "Staff Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Staff de Cinerosa",
+      "group": "Cinerosa"
+    },
+    {
+      "id": "エイミー・チャン",
+      "rank": "Staff Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Staff de Cinerosa",
+      "group": "Cinerosa"
     }
   ]
 }
