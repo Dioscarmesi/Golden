@@ -1,0 +1,154 @@
+{
+  "comunidad": "Bunny Elite",
+  "cards": "juntas",
+  "coronas": 1,
+  "anuncios": 0,
+  "cartel": true,
+  "_leeme": "Hoja Partner de Bunny Elite (Sub/011). corona 1 = logo del conejo (todos). cartel = mismo logo. cards: \"juntas\" = 3 cards del club (1 Tadashi Owner, 2 Faaka, 3 Rensella; cards_pc 2048² / cards_quest 1024², 8x4) sumadas a las de Golden. Sin anuncios propios. id = nombre visible EXACTO de VRChat (dado por Carmesi 2026-11-07, sin verificar).",
+  "users": [
+    {
+      "id": "ŤÅÐÄŚHĨ",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 1,
+      "phrase": "Owner de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "Faaka_vr",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 2,
+      "phrase": "Capitán de dancers de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "Rensella",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 3,
+      "phrase": "Capitana de dancers de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "Sweet Secret",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer élite de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "Nosfet",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer élite de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "~Angiethekirin~",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer élite de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "-ᴀᴋᴜ-",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer élite de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "~Dιɳσ",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer élite de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "Moonelision",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer élite de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "Kfe©",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer élite de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "yoz3Tea࿐",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "~Naoya~",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "BridgetFindom",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "dipuburu",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "黒DЯΛKØ鬼",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "KhaosX_vr",
+      "rank": "Dancer",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Dancer de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "foxtreet",
+      "rank": "Staff Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Seguridad de Bunny Elite",
+      "group": "Bunny Elite"
+    },
+    {
+      "id": "Eleonos",
+      "rank": "Staff Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Host de Bunny Elite",
+      "group": "Bunny Elite"
+    }
+  ]
+}
