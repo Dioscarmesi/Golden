@@ -1,10 +1,10 @@
 {
   "comunidad": "Be Mine",
   "cards": "golden",
-  "coronas": 5,
+  "coronas": 6,
   "anuncios": 0,
   "cartel": true,
-  "_leeme": "Hoja Partner de Be Mine (Sub/013). coronas: 1 Owner, 2 Dancer, 3 Staff, 4 Designer, 5 Logo (5 sin usuarios). cartel = logo «Be Mine». Designer va como Staff Comunidad. Sin cards ni anuncios propios. id = nombre visible EXACTO de VRChat (dado por Carmesi 2026-11-07, sin verificar; fatal_ghost lleva el punto raro U+2024 tal cual).",
+  "_leeme": "Hoja Partner de Be Mine (Sub/013). coronas: 1 Owner, 2 Dancer, 3 Staff, 4 Designer (sin uso desde 2026-11-24), 5 Logo, 6 Host. cartel = logo «Be Mine». Host va como Staff Comunidad. id = displayName verificado en la API de VRChat 2026-11-24.",
   "users": [
     {
       "id": "XiguDJ",
@@ -12,14 +12,6 @@
       "banner": 1,
       "card": 0,
       "phrase": "Owner de Be Mine",
-      "group": "Be Mine"
-    },
-    {
-      "id": "xmax04x",
-      "rank": "Dancer",
-      "banner": 2,
-      "card": 0,
-      "phrase": "Dancer de Be Mine",
       "group": "Be Mine"
     },
     {
@@ -31,35 +23,59 @@
       "group": "Be Mine"
     },
     {
-      "id": "Ailith~",
-      "rank": "Staff Comunidad",
-      "banner": 3,
+      "id": "Aldraede",
+      "rank": "Dancer",
+      "banner": 2,
       "card": 0,
-      "phrase": "Staff de Be Mine",
+      "phrase": "Dancer de Be Mine",
       "group": "Be Mine"
     },
     {
-      "id": "Shanonlia",
-      "rank": "Staff Comunidad",
-      "banner": 3,
+      "id": "-__VISCOCHIN__-",
+      "rank": "Dancer",
+      "banner": 2,
       "card": 0,
-      "phrase": "Staff de Be Mine",
+      "phrase": "Dancer de Be Mine",
       "group": "Be Mine"
     },
     {
-      "id": "ɮʊʟʟӄǟʏֆ",
-      "rank": "Staff Comunidad",
-      "banner": 3,
+      "id": "xmax04x",
+      "rank": "Dancer",
+      "banner": 2,
       "card": 0,
-      "phrase": "Staff de Be Mine",
+      "phrase": "Dancer de Be Mine",
+      "group": "Be Mine"
+    },
+    {
+      "id": "JonitaGames",
+      "rank": "Dancer",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Dancer de Be Mine",
+      "group": "Be Mine"
+    },
+    {
+      "id": "AKZERTH",
+      "rank": "Staff Comunidad",
+      "banner": 6,
+      "card": 0,
+      "phrase": "Host de Be Mine",
       "group": "Be Mine"
     },
     {
       "id": "Dipemol",
       "rank": "Staff Comunidad",
-      "banner": 4,
+      "banner": 3,
       "card": 0,
-      "phrase": "Designer de Be Mine",
+      "phrase": "Staff de Be Mine",
+      "group": "Be Mine"
+    },
+    {
+      "id": "Ailith~",
+      "rank": "Staff Comunidad",
+      "banner": 3,
+      "card": 0,
+      "phrase": "Staff de Be Mine",
       "group": "Be Mine"
     }
   ]
