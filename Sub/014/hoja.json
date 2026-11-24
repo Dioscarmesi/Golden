@@ -1,0 +1,58 @@
+{
+  "comunidad": "Wichito Team",
+  "cards": "golden",
+  "coronas": 2,
+  "anuncios": 0,
+  "cartel": false,
+  "_leeme": "Hoja Partner de Wichito Team (Sub/014). coronas: 1 Wichito (owner), 2 Staff. Sin logo/cartel ni cards propias. id = nombre visible de VRChat dado por Carmesi 2026-11-24, sin verificar (Wichito lleva ＩＡ de ancho completo).",
+  "users": [
+    {
+      "id": "Wichito -ＩＡ",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de Wichito Team",
+      "group": "Wichito Team"
+    },
+    {
+      "id": "Pekas Goat",
+      "rank": "Staff Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Staff de Wichito Team",
+      "group": "Wichito Team"
+    },
+    {
+      "id": "Betofx",
+      "rank": "Staff Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Staff de Wichito Team",
+      "group": "Wichito Team"
+    },
+    {
+      "id": "buky 23",
+      "rank": "Staff Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Staff de Wichito Team",
+      "group": "Wichito Team"
+    },
+    {
+      "id": "yulib",
+      "rank": "Staff Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Staff de Wichito Team",
+      "group": "Wichito Team"
+    },
+    {
+      "id": "Jhony_D",
+      "rank": "Staff Comunidad",
+      "banner": 2,
+      "card": 0,
+      "phrase": "Staff de Wichito Team",
+      "group": "Wichito Team"
+    }
+  ]
+}

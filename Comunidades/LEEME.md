@@ -24,6 +24,8 @@ En `roles.json`, `banner` 2000+N = `coronas/N.png` (PC 1024²) · `coronas_quest
 | 2018 | 18 | Be Mine · Dancer |
 | 2019 | 19 | Be Mine · Staff |
 | 2020 | 20 | Be Mine · Designer |
+| 2021 | 21 | Wichito Team · Wichito (owner) |
+| 2022 | 22 | Wichito Team · Staff |
 
 ## Cartel de Golden
 
