@@ -27,6 +27,7 @@ En `roles.json`, `banner` 2000+N = `coronas/N.png` (PC 1024²) · `coronas_quest
 | 2021 | 21 | Wichito Team · Wichito (owner) |
 | 2022 | 22 | Wichito Team · Staff |
 | 2023 | 23 | Be Mine · Host |
+| 2024 | 24 | Jokumeda · Logo (Owner) |
 
 ## Cartel de Golden
 

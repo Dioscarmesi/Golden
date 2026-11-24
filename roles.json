@@ -1082,7 +1082,7 @@
     {
       "id": "Jhony_D",
       "rank": "Partner",
-      "banner": 2021,
+      "banner": 2024,
       "card": 0
     },
     {
@@ -1218,6 +1218,12 @@
       "desc": "Comunidad partner de Golden",
       "desc_en": "Golden partner community",
       "id": "grp_65ac38e3-43d3-45ae-bdff-c48fabb577c6"
+    },
+    {
+      "nombre": "JOKUMEDA 宙",
+      "desc": "Comunidad partner de Golden",
+      "desc_en": "Golden partner community",
+      "id": "grp_971529d4-555d-4c6d-84e2-05e91c0b4f50"
     }
   ]
 }

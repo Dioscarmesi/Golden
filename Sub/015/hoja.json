@@ -1,0 +1,18 @@
+{
+  "comunidad": "Jokumeda",
+  "cards": "golden",
+  "coronas": 1,
+  "anuncios": 0,
+  "cartel": true,
+  "_leeme": "Hoja Partner de Jokumeda (Sub/015, grupo JOKUMEDA 宙 grp_971529d4-555d-4c6d-84e2-05e91c0b4f50). corona 1 = logo. cartel = emblema redondo. id = displayName verificado en VRChat 2026-11-24.",
+  "users": [
+    {
+      "id": "Jhony_D",
+      "rank": "Owner Comunidad",
+      "banner": 1,
+      "card": 0,
+      "phrase": "Owner de Jokumeda",
+      "group": "Jokumeda"
+    }
+  ]
+}
