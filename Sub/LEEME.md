@@ -5,6 +5,7 @@ Una carpeta numerada por comunidad (`001`, `002`…). La API (`/p/{código}`) el
 | Archivo | Qué es | Lo usa hoy |
 |---|---|---|
 | `hoja.json` | usuarios (`id` = nombre EXACTO de VRChat), `rank`, `banner`, `card`; `cards`: `"golden"` (solo Golden) · `"juntas"` (Golden + club) · `"club"` (solo club) — ver tabla abajo; `anuncios` 0–4; `coronas` N (0–16) = usa `coronas/1..N.png` sueltas (solo baja las que lleve alguien); **siempre** poner N ≥ 1 si hay coronas | ✅ |
+| `"tema"` (en `hoja.json`) | perfil de color del Salón al activar el código (automático e irreversible): `default`, `morado`, `rosa`, `verde`, `azulcyan`, `azuloscuro`. Sin campo = no cambia. Solo lo usa el mundo con «Temas» montado (2026-11-27) | ✅ |
 | `info.json` | nombre de la comunidad y notas (no se descarga) | — |
 | `banners.png` | ~~atlas 4×4 de coronas~~ **DESCARTADO (2026-10-30)**: solo coronas sueltas + Quest. Queda en Sub/001 y 002 por compatibilidad | ❌ |
 | `coronas/N.png` | **corona N suelta, 1024×1024, dibujo centrado en caja del 40 %**, PC. Mismo número que `banner` en la hoja. Máx. 16 | ✅ |
